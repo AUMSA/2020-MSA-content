@@ -1,0 +1,18 @@
+.header {
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+  }
+.image {
+    padding-left: 15px;
+    max-height: 100%;
+    max-width: 100%;
+}
+.headerText{
+  font-size: 80px;
+  margin: auto 0;
+  font-weight: bold;
+  color: #eeeeee;
+}
+
