@@ -1,4 +1,4 @@
-# 2019-Phase-1
+# 2020 Phase 1
 
 ## Introduction
 This ReadMe outlines how you should proceed with the Serverless programming mini-project that you will be required to complete for phase 1.
