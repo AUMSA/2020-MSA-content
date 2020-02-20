@@ -30,7 +30,7 @@ In this subsection we will create an account to use PowerBI. We will connect to 
 For your assignment, you will need to:
 - Select a different dataset. You can use more than one datasets if you like. (Hint: Head over to Kaggle to find a variety of datasets).
 - Create an Azure Notebooks project and a notebook(s)
-- Load your selected dataset and perform at least 3 or more **useful** types of transformations on the data. If you decide to do a format revision transformation as per the documentation, please dont just copy the currency conversion example. (Examples of transformation types are in the Part 1 documentation or at [this link](https://www.stitchdata.com/etldatabase/etl-transform/))
+- Load your selected dataset and perform at least 3 or more **useful** types of transformations on the data. If you decide to do a format revision transformation as per the documentation, please dont just copy the currency conversion example. (Examples of transformation types are in the Part 1 documentation or [here](https://www.stitchdata.com/etldatabase/etl-transform/))
 - Create and save a new CSV file(s) based on the manipulations you performed above.
 - Use these CSV file(s) in Power
 - Create visualisations in Power BI using the above csv(s).
