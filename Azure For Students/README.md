@@ -37,8 +37,9 @@ Once your code has been successfully verified, Read and accept the terms and con
 After clicking 'Sign up' you will be able navigated to the azure portal home page. Go through the tutorial if you are new to azure to familiarise yourself with azure's capability. 
 ![portal-home-page](img/portal-home-page.png)
 
-Visit [Azure Sponsorship Page](http://www.microsoftazuresponsorships.com) and click 'Check your Balance' to view your azure credit balance. 
+Visit [Azure Sponsorships Page](http://www.microsoftazuresponsorships.com) and click 'Check your Balance' to view your azure credit balance. 
 
+![azure-sponsorships-page](img/azure-sponsorships-page.png)
 ![your-credit](img/your-credit.png)
 
 # Congratulations
