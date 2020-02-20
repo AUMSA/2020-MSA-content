@@ -359,7 +359,7 @@ So how do we download the created CSV's? Easy, click the File menu on the top le
 You can also download them from the project view too. 
 
 ### Completed demo project
-You can find the notebook with all the code and cells here: [Comming Soon]
+You can find the notebook with all the code and cells here: [Coming Soon]
 
 The project link is: [Coming Soon]
 
