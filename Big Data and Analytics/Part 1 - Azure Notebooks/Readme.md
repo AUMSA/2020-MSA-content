@@ -60,7 +60,7 @@ Congratulations! You've successfully created your Azure Notebooks project.
 ## 3.  Create a Notebook
 
 To create a notebook, click the new button and select notebook.
-![image](img/azurenotebooks/azure4a.JPG)
+![image](img/azurenotebooks/azure04a.png)
 
 Enter in a name (can be any you like), and select a language. For this demo, I have selected Python. Click new.
 ![image](img/azurenotebooks/azure5.PNG)
