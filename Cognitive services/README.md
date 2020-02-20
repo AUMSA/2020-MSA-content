@@ -169,7 +169,7 @@ You are ready to go. Dig in and start coding! Simply follow the 2 parts tutorial
 
 **Good luck and have fun!**
 
-*We would love to hear your feedback. Discuss them on Facebook Group or email us at nzmsa@microsoft.com*
+*We would love to hear your feedback. Discuss them on Facebook Group or email us at aumsa@microsoft.com*
 
 
 Evenlyn & Paul 😊
