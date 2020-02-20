@@ -359,9 +359,9 @@ So how do we download the created CSV's? Easy, click the File menu on the top le
 You can also download them from the project view too. 
 
 ### Completed demo project
-You can find the notebook with all the code and cells here: [comming soon]
+You can find the notebook with all the code and cells here: [Comming Soon]
 
-The project link is [coming soon]
+The project link is: [Coming Soon]
 
 ### To continue your work next time:
 If you stop working on your notebook and log out, next time when you come back to your notebook, you will need to rerun each of the cells. This is because it runs in memory and the memory will be cleared. You wont need to reupload your raw dataset if you have saved it in your project as per the steps in this tutorial.
