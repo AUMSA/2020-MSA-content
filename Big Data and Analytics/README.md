@@ -1,4 +1,4 @@
-# 2020 Phase 1: Big Data and Analytics
+# 2020 Phase 1 - Big Data and Analytics
 
 ## Introduction
 The big data and analytics module will focus on transforming data into insightful information. We will be loading a large dataset to Azure Notebooks where we will clean, transform and store the data we manipulate. With the use of Power BI we will then import our transformed data to create useful visualisations.
