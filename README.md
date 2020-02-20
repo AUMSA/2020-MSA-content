@@ -15,14 +15,12 @@ Phase 1 of MSA in 2020 will have 2 components:
 
 It is in your best interest to watch as many videos and upskill as much as you can on all the content created by the MSP's as Phase 2 will incorporate components of each video to create a more complete software system.
 
-These videos will be uploaded to our [YouTube](TBA) channel - Subscribe and turn on the notification bell to keep up to date. 
+These videos will be uploaded to our [YouTube] channel (Comming Soon) - Subscribe and turn on the notification bell to keep up to date. 
 
 ## Submission for Phase 1 Due: To Be Announced
 Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything. If your repository is private please add the username: msaccelerate as a collaborator.
  
-Submission form: [TBA](TBA)
-
-[Register here](TBA) for communications and like our [Facebook page](TBA) to stay up to date.
+Submission form: [Comming Soon]
 
 Sign up for Microsoft Azure for Students [(Documentation can be found here)](https://github.com/AUMSA/2020-Phase-1/tree/master/Azure%20For%20Students). Get $100 credit when you create your free account. There is no credit card needed and 12 months of free Azure services. Find out more information [here](https://azure.microsoft.com/en-us/free/students/)
 
