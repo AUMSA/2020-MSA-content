@@ -11,7 +11,7 @@ https://azure.microsoft.com/en-us/free/students/
 
 Click 'Activate Now'
 
-![azure-home-page](img/azure-home-page.png)
+![azure-home-page](img/azure-homepage.png)
 
 Sign in with your existing microsoft account
 
