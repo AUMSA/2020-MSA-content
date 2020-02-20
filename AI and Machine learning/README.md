@@ -2,7 +2,7 @@
 
 # Introduction
 
-Welcome to the MSA 2019 module on AI and Machine Learning. This module hopes to teach you the fundamental ideas behind Machine Learning and give you a picture of what it looks like to use Machine Learning and why it's useful.
+Welcome to the MSA 2020 module on AI and Machine Learning. This module hopes to teach you the fundamental ideas behind Machine Learning and give you a picture of what it looks like to use Machine Learning and why it's useful.
 We'll be leveraging Python along with some of its powerful libraries into order to do our analysis on the dataset in Jupyter Notebooks run on Azure Notebooks. These powerful libraries which Python users have access to is one of the reasons that Python has become the dominant language for doing data analysis with machine learning.
 
 
@@ -55,18 +55,18 @@ We're going to be doing all our work in this tutorial in Azure Notebooks. Azure 
 ## Setting up Azure Notebooks
 
 First thing's first, go to notebooks.azure.com in your browser. Once you're there, click sign in. You can use your uni email address here even if you haven't logged into Azure or Microsoft with it before.
-![alt text](https://raw.githubusercontent.com/NZMSA/2019-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/AzureFrontPage.png "Front page of Azure Notebooks. Click sign in.")
-![alt text](https://raw.githubusercontent.com/NZMSA/2019-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/SignIn.png "Enter your uni email address")
+![alt text](https://raw.githubusercontent.com/NZMSA/2020-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/AzureFrontPage.png "Front page of Azure Notebooks. Click sign in.")
+![alt text](https://raw.githubusercontent.com/NZMSA/2020-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/SignIn.png "Enter your uni email address")
 If it's your first time signing in to Azure Notebooks, you'll need to create a userID. Make it whatever you want.
-![alt text](https://raw.githubusercontent.com/NZMSA/2019-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/CreateUserID.png "Put whatever you want for your userID")
+![alt text](https://raw.githubusercontent.com/NZMSA/2020-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/CreateUserID.png "Put whatever you want for your userID")
 Now let's create our first project and call it auto-mpg. Keep the notebook you submit public so that the markers can access your notebook using the link.
-![alt text](https://raw.githubusercontent.com/NZMSA/2019-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/ClickCreateProj.png "Click on 'create project'")
-![alt text](https://raw.githubusercontent.com/NZMSA/2019-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/CreateProject.png "Call the project auto-mpg and keep it public")
+![alt text](https://raw.githubusercontent.com/NZMSA/2020-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/ClickCreateProj.png "Click on 'create project'")
+![alt text](https://raw.githubusercontent.com/NZMSA/2020-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/CreateProject.png "Call the project auto-mpg and keep it public")
 
 
 Create a notebook and call it auto-mpg. Choose Python 3.6.
-![alt text](https://raw.githubusercontent.com/NZMSA/2019-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/ClickAddNotebook.png "Hover over the plus and then click on Notebook")
-![alt text](https://raw.githubusercontent.com/NZMSA/2019-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/CreateNotebook.png "Type the notebook name, select Python 3.6")
+![alt text](https://raw.githubusercontent.com/NZMSA/2020-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/ClickAddNotebook.png "Hover over the plus and then click on Notebook")
+![alt text](https://raw.githubusercontent.com/NZMSA/2020-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/CreateNotebook.png "Type the notebook name, select Python 3.6")
 # Retrieving data, analysing it, and performing linear regression
 
 Now you've gotten your Azure Notebook ready, we can look for some data to analyse. We have written comments into [the notebook that you saw on the video](https://notebooks.azure.com/rivindu/projects/auto-mpg/html/auto-mpg.ipynb) so that you can refer back to it for the rest of the tutorial.
