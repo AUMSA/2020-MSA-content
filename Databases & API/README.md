@@ -16,7 +16,7 @@ This documentation is a supplement to the YouTube Video on how to create a Datab
 6. Submission Criteria
 7. Postface
 
-## 1. Before you start 
+## 1. Before you start
 
 There are a few programs you will need to have installed prior to commencing this tutorial.
 
