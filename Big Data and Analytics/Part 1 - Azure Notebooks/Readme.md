@@ -47,11 +47,11 @@ Under the "My Projects" title, click "create one now?" to create a new project. 
 
 You'll be presented with a "Create New Project" dialog. Pick a project name and enter it in the field. Feel free to name it whatever you like. The Project ID will be created automatically as you type in your project name. Lastly ensure the "Public" check box is selected (so that we can view your project).
 
-![image](img/azurenotebooks/azure3.PNG)
+![image](img/azurenotebooks/azure03.PNG)
 
 Once created you will be taken to the project. As I have the readme option ticked in the previous section, it has also been created and displayed.
 
-![image](img/azurenotebooks/azure4.PNG)
+![image](img/azurenotebooks/azure04.PNG)
 
 Think of your project like a git repository. You can add files and folders here and as it's public whoever navigates to your project can view and download the contents. CSV's you create later below will also appear here, as with the raw dataset which we will be adding.
 
