@@ -66,7 +66,7 @@ Enter in a name (can be any you like), and select a language. For this demo, I h
 ![image](img/azurenotebooks/azure5.PNG)
 
 You should now see your new note book in your project.
-![image](img/azurenotebooks/azure6.PNG)
+![image](img/azurenotebooks/azure06.png)
 
 Lets click on the notebook to open it up. Upon opening you should see the following:
 1: The Run button will run the current selected cell
@@ -107,7 +107,7 @@ To install it, click on the first cell in your notebook and add the following:
 ```
 
 Now click the run button and wait for the notebook to do its thing.
-![image](img/azurenotebooks/azure9.PNG)
+![image](img/azurenotebooks/azure09.PNG)
 
 You will know it is completely installed when you see the following
 ![image](img/azurenotebooks/azure10.PNG)
