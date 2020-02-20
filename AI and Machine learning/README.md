@@ -55,7 +55,7 @@ We're going to be doing all our work in this tutorial in Azure Notebooks. Azure 
 ## Setting up Azure Notebooks
 
 First thing's first, go to notebooks.azure.com in your browser. Once you're there, click sign in. You can use your uni email address here even if you haven't logged into Azure or Microsoft with it before.
-![alt text](https://raw.githubusercontent.com/NZMSA/2019-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/AzureFrontPage.png "Front page of Azure Notebooks. Click sign in.")
+![alt text](https://github.com/AUMSA/2020-Phase-1/blob/master/AI%20and%20Machine%20learning/Screenshots/AzureFrontPage.png "Front page of Azure Notebooks. Click sign in.")
 ![alt text](https://raw.githubusercontent.com/NZMSA/2019-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/SignIn.png "Enter your uni email address")
 If it's your first time signing in to Azure Notebooks, you'll need to create a userID. Make it whatever you want.
 ![alt text](https://raw.githubusercontent.com/NZMSA/2019-Phase-1/master/AI%20and%20Machine%20learning/Screenshots/CreateUserID.png "Put whatever you want for your userID")
