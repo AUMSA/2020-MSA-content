@@ -1,4 +1,4 @@
-# 2020-Phase-1
+# 2020 Phase 1
 
 Phase 1 of MSA in 2020 will have 2 components: 
 
