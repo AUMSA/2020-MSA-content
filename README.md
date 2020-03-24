@@ -3,12 +3,9 @@
 Phase 1 of MSA in 2020 will have 2 components: 
 
 - Submitting one of the mini projects that the Microsoft Student Partners (MSP’s) will outline in the videos they create
-    - AI and Machine learning
-    - Big Data and Analytics
-    - Cognitive services
-    - Databases/API
-    - Serverless programming
-    - Web App
+    - AI & Advanced Analytics
+    - Cloud Computing with Azure
+    - Web App & APIs
 - Complete the exercises on the [Microsoft learn platform](https://docs.microsoft.com/en-us/learn/) and submit a screenshot of the dashboard
     - The MSP's will outline which exercises you have to watch in the respective GitHub Documentaion.
     - Some courses have fewer MS Learn videos to balance out the work load
