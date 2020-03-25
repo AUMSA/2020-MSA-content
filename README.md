@@ -1,6 +1,6 @@
-# 2020 Phase 1
+# 2020 MSA
 
-Phase 1 of MSA in 2020 will have 2 components: 
+MSA in 2020 will have 2 components: 
 
 - Submitting one of the mini projects that the Microsoft Student Partners (MSP’s) will outline in the videos they create
     - AI & Advanced Analytics
@@ -14,7 +14,7 @@ It is in your best interest to watch as many videos and upskill as much as you c
 
 These videos will be uploaded to our [YouTube] channel (Comming Soon) - Subscribe and turn on the notification bell to keep up to date. 
 
-## Submission for Phase 1 Due: To Be Announced
+## Submission for Project Due: To Be Announced
 Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything. If your repository is private please add the username: msaccelerate as a collaborator.
  
 Submission form: [Coming Soon]
