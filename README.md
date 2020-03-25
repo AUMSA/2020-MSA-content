@@ -10,9 +10,6 @@ MSA in 2020 will have 2 components:
     - The MSP's will outline which exercises you have to watch in the respective GitHub Documentaion.
     - Some courses have fewer MS Learn videos to balance out the work load
 
-It is in your best interest to watch as many videos and upskill as much as you can on all the content created by the MSP's as Phase 2 will incorporate components of each video to create a more complete software system.
-
-These videos will be uploaded to our [YouTube] channel (Comming Soon) - Subscribe and turn on the notification bell to keep up to date. 
 
 ## Submission for Project Due: To Be Announced
 Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything. If your repository is private please add the username: msaccelerate as a collaborator.
