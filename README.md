@@ -8,7 +8,7 @@ MSA Australia 2020 will cover 3 main topics:
 There would be one project for each topic to complete. The detail of each project would be announced shortly in the respective GitHub Documentation.
 
 ## Supporting Workshops
-The MSA 2020 program will also host a series of complimenting workshop:
+The MSA 2020 program will also host a series of complimenting workshops:
 1) Git & GitHub
 2) DevOps and Project Workflow
 3) Presentation and Soft Skills
