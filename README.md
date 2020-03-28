@@ -1,9 +1,9 @@
 # 2020 MSA
 
 MSA Australia 2020 will cover 3 main topics: 
-    - AI & Advanced Analytics
-    - Cloud Computing with Azure
-    - Web App & APIs
+1) AI & Advanced Analytics
+2) Cloud Computing with Azure
+3) Web App & APIs
   
 There would be a project for each topic to complete. The due date of each project would be announced shortly.
 
