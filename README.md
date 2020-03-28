@@ -1,4 +1,4 @@
-# 2020 MSA
+# 2020 MSA Australia
 
 MSA Australia 2020 will cover 3 main topics: 
 1) AI & Advanced Analytics
