@@ -1,1 +1,1 @@
-## 2020 MSA - AI & Advanced Analytics
+## MSA 2020 - AI & Advanced Analytics
