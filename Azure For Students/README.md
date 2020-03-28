@@ -1,4 +1,4 @@
-# 1. Azure For Students
+# Azure For Students
 ## Introduction
 
 Get a $100 credit when you create your Azure free account
