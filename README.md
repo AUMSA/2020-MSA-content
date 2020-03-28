@@ -8,7 +8,7 @@ MSA Australia 2020 will cover 3 main topics:
 There would be one project for each topic to complete. The detail of each project would be announced shortly in the respective GitHub Documentation.
 
 ## Microsoft Learn
-Completing the exercises on the [(Microsoft learn platform)](https://docs.microsoft.com/en-us/learn/) would significantly help you get better understanding of the topics.
+Completing the exercises on the [(Microsoft learn platform)](https://docs.microsoft.com/en-us/learn/) would significantly help you get better understanding of the topics covered in this program.
 The MSP's will outline which exercises you have to do in the respective GitHub Documentaion.
 
 ## Submission for Project
