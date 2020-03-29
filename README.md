@@ -14,7 +14,7 @@ The MSA 2020 program will also host a series of complimenting workshops:
 3) Presentation and Soft Skills
 
 ## Microsoft Learn
-Completing the exercises on the [Microsoft learn platform](https://docs.microsoft.com/en-us/learn/) would significantly help you get better understanding of the topics covered in this program.
+Completing the modules on the [Microsoft learn platform](https://docs.microsoft.com/en-us/learn/) would significantly help you get better understanding of the topics covered in this program.
 The MSP's will outline which exercises you have to do in the respective GitHub Documentaion.
 
 ## Submission for Project
