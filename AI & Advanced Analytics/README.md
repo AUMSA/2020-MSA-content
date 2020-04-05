@@ -26,6 +26,22 @@ assignment section in this project. We recommend the following this order:
 4. Complete & submit project according to guidelines mentioned in Project Section. 
 
 If you're taking using Azure Machine Learning Studio then check out this quick start guide. 
-To complete the project using Python and Azure Notebooks, check the setup guide here. 
+Or, if you're developing using Python and Azure Notebooks, check the quick start guide here. 
 
 
+## Resources
+- You can have a look at this MS learn 6 hours course which would take your skill from beginner to            intermediate (yes you read it right 6 hours!!)-
+https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ml-crash-course
+
+- Visit this cool MS learn link to know about many more conventional AI projects. Happy learning-
+https://aischool.microsoft.com/en-us/conversational/learning-paths
+
+- The MS learn video on Machine Learning is a good place to start. It'll give you a basic understanding of what Machine Learning is so you can understand the concepts discussed in this video a little better. We recommend reading through it beforehand. https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/
+
+
+### Extra Resources
+- General Data Analysis information: https://github.com/wesm/pydata-book
+- This Pandas cheat sheet is good to have by: https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+- If you want to go deeper and then this Full course on Machine Learning by Stanford university might come handy. You could find it here- 
+https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
