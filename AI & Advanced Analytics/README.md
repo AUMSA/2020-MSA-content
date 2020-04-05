@@ -39,7 +39,7 @@ https://aischool.microsoft.com/en-us/conversational/learning-paths
 - The MS learn video on Machine Learning is a good place to start. It'll give you a basic understanding of what Machine Learning is so you can understand the concepts discussed in this video a little better. We recommend reading through it beforehand. https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/
 
 
-### Extra Resources
+#### Extra Resources
 - General Data Analysis information: https://github.com/wesm/pydata-book
 - This Pandas cheat sheet is good to have by: https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
