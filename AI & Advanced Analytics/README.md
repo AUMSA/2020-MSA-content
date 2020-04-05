@@ -14,3 +14,18 @@ develop our project by dragging and dropping appropriate layers.
 We have catered our program to code wizards to who want to get their hands dirty. In this bootcamp we will be 
 exploring many core concepts of Machine Learning through creating the program from scratch using Python and 
 Azure Notebooks. 
+
+
+## How to complete this bootcamp 
+To complete this bootcamp you need to submit a project and complete the Microsoft Learn Modules given in the 
+assignment section in this project. We recommend the following this order: 
+
+1. Explore the resources section & complete Microsoft Learn Modules. 
+2. Check-out the demo project.
+3. Select a project from the sample ideas or pick your own idea 
+4. Complete & submit project according to guidelines mentioned in Project Section. 
+
+If you're taking using Azure Machine Learning Studio then check out this quick start guide. 
+To complete the project using Python and Azure Notebooks, check the setup guide here. 
+
+
