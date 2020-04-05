@@ -45,3 +45,33 @@ https://aischool.microsoft.com/en-us/conversational/learning-paths
 
 - If you want to go deeper and then this Full course on Machine Learning by Stanford university might come handy. You could find it here- 
 https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+
+
+
+## Project 
+To consolidate your learning from this bootcamp we suggest completing a projects. Apart form learning purposes
+you can also share this project in your CV/resume and might be useful in your future job search.
+The projects are also mandatory and part of this bootcamp's assessment. You must complete the project with the following guidelines: 
+- You have to upload and maintain a GitHub repo for your project 
+- Your project must not have only one commit. We need to check commit history to ensure validity project 
+- If it's a code file, it must have comments to explain the major steps in your code 
+- Add a README.md file explaining your project idea. 
+
+Here's a list of cool projects ideas to inspire you: 
+1. Idea - Dataset 
+2. Idea - Dataset 
+3. Idea - Dataset 
+
+If you have our own project idea then feel free to implement that. However, please make sure you README file 
+contain enough information about what your project is about. 
+
+## Assignment: 
+For your assessment you need to complete 
+1. Complete one project for the ideas mentioned above or of your choice.
+2. Complete the "intro-to-ml-with-python" exercises on the Microsoft Learn Platform https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/ 
+
+
+### Submission 
+
+
+### Deadline 
