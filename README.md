@@ -15,7 +15,7 @@ The MSA 2020 program will also host a series of complimenting workshops:
 
 ## Microsoft Learn
 Completing the modules on the [Microsoft learn platform](https://docs.microsoft.com/en-us/learn/) would significantly help you get better understanding of the topics covered in this program.
-The MSP's will outline which modules you have to do in the respective GitHub Documentaion.
+The MSP's will outline which modules are recommended to do in the respective GitHub Documentaion.
 
 ## Submission for Project
 Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything. If your repository is private please add the username: aumsaccelerate as a collaborator.
