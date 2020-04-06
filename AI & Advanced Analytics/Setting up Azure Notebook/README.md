@@ -23,9 +23,8 @@ You create a workspace via the Azure portal, a web-based console for managing yo
 4. In the Machine Learning pane, select Create to begin.
 ![img04](img/img04.png)
 
-5. Provide the following information to configure your new workspace. After you are finished configuring the workspace, select **Review ** + **Create**.
+5. Provide the following information to configure your new workspace. After you are finished configuring the workspace, select **Review** + **Create**. **Please note that it can take several minutes to create your workspace in the cloud.**
 ![img05](img/img05.png)
-> **Please note that it can take several minutes to create your workspace in the cloud.**
 
 6. To view the new workspace, select **Go to resource**.
 ![img06](img/img06.png)
