@@ -11,7 +11,6 @@ You create a workspace via the Azure portal, a web-based console for managing yo
 ![img02](img/img02.png)
 
 3. Use the search bar to find Machine Learning and select **Machine Learning**.
-
 ![img03](img/img03.png)
 
 4. In the Machine Learning pane, select Create to begin.
