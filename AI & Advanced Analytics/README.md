@@ -1,5 +1,11 @@
 # MSA 2020 - AI & Advanced Analytics
 
+## Table of Content
+
+1. [Introduction](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#introduction)
+2. [How to complete this bootcamp](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#how-to-complete-this-bootcamp)
+3. [Resources](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#resources)
+
 ## Introduction
 
 Welcome to the Microsoft Student Accelerator Australia 2020 bootcamp on AI and Analytics. This module hopes
