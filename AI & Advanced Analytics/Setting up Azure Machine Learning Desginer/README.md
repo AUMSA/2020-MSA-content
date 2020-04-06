@@ -22,6 +22,7 @@ You create a workspace via the Azure portal, a web-based console for managing yo
 6. To view the new workspace, select **Go to resource**.
 ![img06](img/img06.png)
 
+
 ## How to use sample pipeline
 The designer saves a copy of the sample pipelines to your studio workspace. You can edit the pipeline to adapt it to your needs and save it as your own. Use them as a starting point to jumpstart your projects.
 
