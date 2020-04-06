@@ -98,7 +98,7 @@ For your assignment, you will need to perform a similar analysis on another data
  
 - Complete the "intro-to-ml-with-python" exercises on the [Microsoft Learn Platform](https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/)
 - Create an Azure notebook [here](https://notebooks.azure.com/) 
-- Find another dataset (not the one used in this video) [There are some good ones here]( https://archive.ics.uci.edu/ml/datasets.php)
+- Find another dataset (not the one used in this video). [There are some good ones here]( https://archive.ics.uci.edu/ml/datasets.php).
 - Clean it (remove bad data) 
 - Analyze it (plot histograms and scatter plots to see what the correlations are like) 
 - Run a machine learning model on the data (e.g. Linear Regression, Random Forest, etc.) 
