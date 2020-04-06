@@ -20,7 +20,7 @@ We will focus today on the Supervised Learning.
 Machine Learning is all about finding ways to teach computers to extrapolate and find trends in a dataset to facilitate decision making, image recognition, or even translations… It is the basis of state-of-the-art technologies such as autonomous vehicles, but it is also implemented in anti-fraud algorithms or personalization interfaces such as Facebook timelines. 
 Already essential to a lot of our technologies, Machine Learning is however still a research topic.	Indeed, there is a lot to improve to perfectly mimic our brain! So YES, it is and will definitely be a significant source of employment and a critical tool for all the industries in the future. 
 
-# Testing a final ML model
+## Testing a final ML model
 The machine learning model that we use to make predictions on new data is called the final model. That is, given new examples of input data, you want to use the model to predict the expected output. This may be a classification (assign a label) or a regression (a real value). For example, whether the photo is a picture of a dog or a cat, or the estimated number of sales for tomorrow. The goal of the machine learning project is to arrive at a final model that performs the best, where “best” is defined by: 
 
 **Data**: the historical data that you have available. 
