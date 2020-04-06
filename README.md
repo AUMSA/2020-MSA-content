@@ -21,7 +21,7 @@ The MSP's will outline which modules are recommended to do in the respective Git
 Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything. If your repository is private please add the username: **msa-australia** as a collaborator.
 
 ## Microsoft Azure for Students
-Sign up for Microsoft Azure for Students [(Documentation can be found here)](https://github.com/AUMSA/2020-Phase-1/tree/master/Azure%20For%20Students). Get $100 credit when you create your free account. There is no credit card needed and 12 months of free Azure services. Find out more information [here](https://azure.microsoft.com/en-us/free/students/).
+Sign up for Microsoft Azure for Students [(Documentation can be found here)](https://github.com/AUMSA/2020-Phase-1/tree/master/Azure%20For%20Students). Get $100 credit as well as 12 months of free Azure services when you create your free account (there is no credit card needed). Find out more information [here](https://azure.microsoft.com/en-us/free/students/).
 
 
 ### And don't forget to like our [Facebook page](https://www.facebook.com/msaaussie/) and join our [Facebook group](https://www.facebook.com/groups/235821840767124/) to stay up to date.
