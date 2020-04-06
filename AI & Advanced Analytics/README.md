@@ -3,11 +3,11 @@
 ## Introduction 
 
 Welcome to the Microsoft Student Accelerator Australia  2020 bootcamp on AI and Analytics. This module hopes 
-to teach you the fundamental ideas behind Machine Learning and give you a picture of what it looks like to use Machine Learning and why it's useful. Machine learning is one of the emerging technologies which has the power to change the world and we would like to enable everyone to harness it power. Hence, in this bootcamp students from all background on how to get started with Machine Learning.  
+to teach you the fundamental ideas behind Machine Learning and give you a picture of what it looks like to use Machine Learning and why it's useful. Machine learning is one of the emerging technologies which has the power to change the world and we would like to enable everyone to harness it power. Hence, in this bootcamp, students from all background will be taught on how to get started with Machine Learning.  
 
 ### Low/No code Approach 
 For those who don't have any prior coding experience, we will be leveraging Azure Machine Learning Studio to 
-create a Machine Learning model without writing any code. The Designer tool in ML Studio enables such to 
+create a Machine Learning model without writing any code. The Designer tool in ML Studio enables us to 
 develop our project by dragging and dropping appropriate layers. 
 
 ### Coding Approach 
@@ -17,7 +17,7 @@ Azure Notebooks.
 
 
 ## How to complete this bootcamp 
-To complete this bootcamp you need to submit a project and complete the Microsoft Learn Modules given in the 
+To complete this bootcamp, you will need to submit a project and complete the Microsoft Learn Modules given in the 
 assignment section in this project. We recommend the following this order: 
 
 1. Explore the resources section & complete Microsoft Learn Modules. 
@@ -49,11 +49,11 @@ https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlR
 
 
 ## Project 
-To consolidate your learning from this bootcamp we suggest completing a projects. Apart form learning purposes
-you can also share this project in your CV/resume and might be useful in your future job search.
+To consolidate your learning from this bootcamp we suggest completing a projects. Apart form learning purposes,
+you can also share this project in your CV/resume and it might be useful in your future job search.
 The projects are also mandatory and part of this bootcamp's assessment. You must complete the project with the following guidelines: 
 - You have to upload and maintain a GitHub repo for your project 
-- Your project must not have only one commit. We need to check commit history to ensure validity project 
+- Your project must not have only one commit. We need to check commit history to ensure the validity of the project 
 - If it's a code file, it must have comments to explain the major steps in your code 
 - Add a README.md file explaining your project idea. 
 
@@ -62,8 +62,7 @@ Here's a list of cool projects ideas to inspire you:
 2. Idea - Dataset 
 3. Idea - Dataset 
 
-If you have our own project idea then feel free to implement that. However, please make sure you README file 
-contain enough information about what your project is about. 
+If you have our own project idea then feel free to implement that. However, please make sure you have a README file that contains enough information about what your project is about. 
 
 ## Assignment: 
 For your assessment you need to complete 
@@ -75,7 +74,7 @@ suggest you complete these first before proceeding with your projects.
 **Task** 
  - If you're using Azure Machine Learning Studio then first read this [short guide](https://docs.microsoft.com/en-us/azure/machine-learning/studio/what-is-ml-studio). And then complete this [tutorial](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment). 
 
-- If you will code you own project then complete this [Microsoft Learn Module](https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/).
+- If you will code your own project then complete this [Microsoft Learn Module](https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/).
  
 #### Part-2
 Complete one project from the ideas mentioned above or of your choice. You can complete the project with either using Azure Machine Learning Studio or code up the project using Azure Notebooks or similar tools.
@@ -85,8 +84,10 @@ Complete one project from the ideas mentioned above or of your choice. You can c
 
 ### Submission 
 
-To submit your work please fill the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks. 
+To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks. 
 [Insert Link]
+
+Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything. If your repository is private please add the username: msa-australia as a collaborator.
 
 ### Deadline 
 The deadline to complete this bootcamp is **13th June 2020**. 
