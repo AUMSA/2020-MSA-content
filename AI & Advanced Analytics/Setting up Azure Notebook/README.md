@@ -43,6 +43,8 @@ You create a workspace via the Azure portal, a web-based console for managing yo
 
 2. Select your subscription and the workspace you created.
 
+![img06b](img/img06b.png)
+
 3. Select Notebooks on the left and click on the "create new file".
 
 ![img07](img/img07.png)
