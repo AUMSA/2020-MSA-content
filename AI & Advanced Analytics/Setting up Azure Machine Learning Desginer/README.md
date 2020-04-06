@@ -5,28 +5,23 @@ An Azure Machine Learning workspace is a foundational resource in the cloud that
 You create a workspace via the Azure portal, a web-based console for managing your Azure resources.
 
 1. Sign in to [Azure portal](https://portal.azure.com/#home) by using the credentials for your Azure subscription.
-
 ![img01](img/img01.png)
 
 2. In the upper-left corner of Azure portal, select + Create a resource.
-
 ![img02](img/img02.png)
 
-3. Use the search bar to find Machine Learning and select "Machine Learning".
+3. Use the search bar to find Machine Learning and select **Machine Learning**.
 
 ![img03](img/img03.png)
 
 4. In the Machine Learning pane, select Create to begin.
-
 ![img04](img/img04.png)
 
-5. Provide the following information to configure your new workspace. After you are finished configuring the workspace, select **Review ** + **Create**.
+5. Provide the following information to configure your new workspace. After you are finished configuring the workspace, select **Review** + **Create**.
 > **Please note that it can take several minutes to create your workspace in the cloud.**
-
 ![img05](img/img05.png)
 
 6. To view the new workspace, select **Go to resource**.
-
 ![img06](img/img06.png)
 
 ## How to use sample pipeline
@@ -34,11 +29,9 @@ The designer saves a copy of the sample pipelines to your studio workspace. You 
 
 ### Open a sample pipeline
 1. Sign in to ml.azure.com, and select the workspace you want to work with.
-
 ![img07](img/img07.png)
 
 2. Select **Designer**, then select a sample pipeline under the **New pipeline** section. Select **Show more samples** for a complete list of samples.
-
 ![img08](img/img08.png)
 
 ### Submit a pipeline run
