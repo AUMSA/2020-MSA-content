@@ -78,7 +78,7 @@ suggest you complete these first before proceeding with your projects.
 - If you will code you own project then complete this [Microsoft Learn Module](https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/).
  
 #### Part-2
-Complete one project for the ideas mentioned above or of your choice. You can complete the project with either using Azure Machine Learning Studio or code up the project using Azure Notebooks or similar tools.
+Complete one project from the ideas mentioned above or of your choice. You can complete the project with either using Azure Machine Learning Studio or code up the project using Azure Notebooks or similar tools.
 
 > Please follow the project completion guidelines in Project section and the submission guidelines in Submission section. 
 
