@@ -77,18 +77,9 @@ Here's a list of cool projects ideas to inspire you:
 
 If you have our own project idea then feel free to implement that. However, please make sure you have a README file that contains enough information about what your project is about.
 
-<<<<<<< HEAD
 Here are some open datasets to help with your projects: https://docs.microsoft.com/en-us/azure/open-datasets/overview-what-are-open-datasets
 
 ## Assignment: 
-For your assessment you need to complete 
-=======
-## Assignment:
-
-For your assessment you need to complete
-
-#### Part-1
->>>>>>> ad3887dc4636bb844533a6f058fef4809b8111f2
 
 To assist you finishing learn the tools and complete the project, we have created two Introductory Lessons. We
 suggest you complete these first before proceeding with your projects.
