@@ -67,8 +67,20 @@ contain enough information about what your project is about.
 
 ## Assignment: 
 For your assessment you need to complete 
-1. Complete one project for the ideas mentioned above or of your choice.
-2. Complete the "intro-to-ml-with-python" exercises on the Microsoft Learn Platform https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/ 
+
+#### Part-1  
+To assist you finishing learn the tools and complete the project, we have created two Introductory Lessons. We
+suggest you complete these first before proceeding with your projects
+
+** Task ** 
+ - If you're using Azure Machine Learning Studio then first read this [short guide](https://docs.microsoft.com/en-us/azure/machine-learning/studio/what-is-ml-studio). And then complete this [tutorial](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment). 
+
+- If you will code you own project then complete this [Microsoft Learn Module](https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/).
+ 
+#### Part-2
+Complete one project for the ideas mentioned above or of your choice. You can complete the project with either using Azure Machine Learning Studio or code up the project using Azure Notebooks or similar tools.
+
+
 
 
 ### Submission 
