@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Setting Up Azure Notebook
 
 In this tutorial, you complete the end-to-end steps to get started with the Azure Machine Learning Python SDK running in Jupyter notebooks. This tutorial will cover Python environment setup and configuration, as well as creating a workspace to manage your experiments and machine learning models.
@@ -33,6 +34,10 @@ You create a workspace via the Azure portal, a web-based console for managing yo
 ![img05](img/img05.png)
 
 6. To view the new workspace, select **Go to resource**.
+=======
+# Setting up Azure Notebook
+1. First thing's first, go to notebooks.azure.com in your browser. Once you're there, click sign in. You can use your university email address. 
+>>>>>>> d6e746546cd777d398cf455abc7e15df3603dc87
 
 ![img06](img/img06.png)
 
@@ -69,4 +74,13 @@ You create a workspace via the Azure portal, a web-based console for managing yo
 
 9. Then you are ready to use Jupyter notebook in your workspace.
 
+<<<<<<< HEAD
 ![img13](img/img13.png)
+=======
+![img08](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Setting%20up%20Azure%20Notebook/img/img08.png)
+
+
+8. You will see your new notebook as a .ipynb file 
+
+![img09](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Setting%20up%20Azure%20Notebook/img/img09.png)
+>>>>>>> d6e746546cd777d398cf455abc7e15df3603dc87
