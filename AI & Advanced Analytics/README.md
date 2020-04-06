@@ -81,6 +81,7 @@ Here are some open datasets to help with your projects: https://docs.microsoft.c
 
 ## Assignment: 
 
+#### Part-1
 To assist you finishing learn the tools and complete the project, we have created two Introductory Lessons. We
 suggest you complete these first before proceeding with your projects.
 
