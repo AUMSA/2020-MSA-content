@@ -74,6 +74,8 @@ Here's a list of cool projects ideas to inspire you:
 If you have our own project idea then feel free to implement that. However, please make sure you README file 
 contain enough information about what your project is about. 
 
+Here are some open datasets to help with your projects: https://docs.microsoft.com/en-us/azure/open-datasets/overview-what-are-open-datasets
+
 ## Assignment: 
 For your assessment you need to complete 
 
