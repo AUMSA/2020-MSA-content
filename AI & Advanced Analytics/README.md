@@ -70,9 +70,9 @@ For your assessment you need to complete
 
 #### Part-1  
 To assist you finishing learn the tools and complete the project, we have created two Introductory Lessons. We
-suggest you complete these first before proceeding with your projects
+suggest you complete these first before proceeding with your projects.
 
-** Task ** 
+**Task** 
  - If you're using Azure Machine Learning Studio then first read this [short guide](https://docs.microsoft.com/en-us/azure/machine-learning/studio/what-is-ml-studio). And then complete this [tutorial](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment). 
 
 - If you will code you own project then complete this [Microsoft Learn Module](https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/).
