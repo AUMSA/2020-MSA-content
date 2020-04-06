@@ -1,6 +1,4 @@
 # Setting up Azure Notebook
-
-# Setting up Azure notebook: 
 1. First thing's first, go to notebooks.azure.com in your browser. Once you're there, click sign in. You can use your university email address. 
 
 ![img02](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Setting%20up%20Azure%20Notebook/img/img02.png)
