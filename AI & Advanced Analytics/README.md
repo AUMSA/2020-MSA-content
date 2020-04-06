@@ -80,10 +80,13 @@ suggest you complete these first before proceeding with your projects.
 #### Part-2
 Complete one project for the ideas mentioned above or of your choice. You can complete the project with either using Azure Machine Learning Studio or code up the project using Azure Notebooks or similar tools.
 
-
+> Please follow the project completion guidelines in Project section and the submission guidelines in Submission section. 
 
 
 ### Submission 
 
+To submit your work please fill the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks. 
+[Insert Link]
 
 ### Deadline 
+The deadline to complete this bootcamp is **13th June 2020**. 
