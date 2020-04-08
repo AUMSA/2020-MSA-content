@@ -1,4 +1,5 @@
 # MSA Australia 2020
+This is MSA Australia Official GitHub and all the instructions about MSA would be uploaded in this GitHub. However, don't forget to like our [Facebook page](https://www.facebook.com/msaaussie/) and join our [Facebook group](https://www.facebook.com/groups/235821840767124/) to stay up to date.
 
 MSA Australia 2020 will cover 3 main topics: 
 1) [AI & Advanced Analytics](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics)
@@ -39,6 +40,3 @@ In order to get a MSA certificate, you **must**:
 
 ## Microsoft Azure for Students
 Sign up for Microsoft Azure for Students [(Documentation can be found here)](https://github.com/AUMSA/2020-Phase-1/tree/master/Azure%20For%20Students). Get $100 credit as well as 12 months of free Azure services when you create your free account (there is no credit card needed). Find out more information [here](https://azure.microsoft.com/en-us/free/students/).
-
-
-### And don't forget to like our [Facebook page](https://www.facebook.com/msaaussie/) and join our [Facebook group](https://www.facebook.com/groups/235821840767124/) to stay up to date.
