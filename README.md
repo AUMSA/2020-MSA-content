@@ -1,5 +1,5 @@
 # MSA Australia 2020
-__his is MSA Australia Official GitHub and all the instructions about MSA would be uploaded in this GitHub. However, don't forget to like our [Facebook page](https://www.facebook.com/msaaussie/) and join our [Facebook group](https://www.facebook.com/groups/235821840767124/) to stay up to date.__
+*This is MSA Australia Official GitHub and all the instructions about MSA would be uploaded in this GitHub. However, don't forget to like our [Facebook page](https://www.facebook.com/msaaussie/) and join our [Facebook group](https://www.facebook.com/groups/235821840767124/) to stay up to date.*
 
 MSA Australia 2020 will cover 3 main topics: 
 1) [AI & Advanced Analytics](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics)
