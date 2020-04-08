@@ -1,5 +1,6 @@
 # MSA Australia 2020
 *Welcome to MSA Australia Official GitHub repository. Please note that all the instructions about MSA will be uploaded to this GitHub. However, don't forget to like our [Facebook page](https://www.facebook.com/msaaussie/) and join our [Facebook group](https://www.facebook.com/groups/235821840767124/) to stay up to date.*
+
 *MSA 2020 Handbook can be found [here](aka.ms/aumsaHandbook)*
 
 MSA Australia 2020 will cover 3 main topics: 
@@ -7,7 +8,7 @@ MSA Australia 2020 will cover 3 main topics:
 2) [Cloud Computing with Azure](https://github.com/AUMSA/2020-MSA-content/tree/master/Cloud%20Computing%20with%20Azure)
 3) [Web App & APIs](https://github.com/AUMSA/2020-MSA-content/tree/master/Web%20App%20%26%20APIs)
   
-There would be one project for each topic to complete. The detail of each project would be announced shortly in the respective GitHub Documentation.
+There would be one project for each topic. The detail of each project would be announced shortly in the respective GitHub Documentation.
 
 ## Bootcamps & Supporting Workshops
 ### Bootcamps
