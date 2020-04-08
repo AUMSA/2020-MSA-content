@@ -25,7 +25,7 @@ The MSA 2020 program will also host a series of complimenting workshops:
 2) DevOps and Project Workflow
 3) Presentation and Soft Skills
 
-> To ensure all the bootcamps to be run smoothly, please always mute your microphone as we will have a Q&A session at the end of each bootcamps.
+> To ensure all the bootcamps to be run smoothly, please always mute your microphone as we will have a Q&A session at the end of each bootcamp.
 
 
 ## MSA Project
