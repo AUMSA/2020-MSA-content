@@ -30,7 +30,7 @@ The MSA 2020 program will also host a series of complimenting workshops:
 > To ensure all the bootcamps & workshops to be run smoothly, please always mute your microphone as we will have a Q&A session at the end of the bootcamps.
 
 ## Microsoft Azure for Students
-You are required to have a Azure account in order to start the program. If you do not have one, please [sign up here](https://github.com/AUMSA/2020-Phase-1/tree/master/Azure%20For%20Students) for free(no credit card needed), and you will et $100 credit as well as 12 months of free Azure services. Find out more information [here](https://azure.microsoft.com/en-us/free/students/).
+You are required to have a Azure account in order to start the program. If you do not have one, please [sign up](https://github.com/AUMSA/2020-Phase-1/tree/master/Azure%20For%20Students) for free (no credit card needed), and you will et $100 credit as well as 12 months of free Azure services. Find out more information [here](https://azure.microsoft.com/en-us/free/students/).
 
 ## MSA Projects
 Please read through the criteria on the respective GitHub documentation to get more information about respective project.
