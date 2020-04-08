@@ -35,7 +35,7 @@ Please read through the criteria on the respective GitHub documentation to get m
 Completing the modules on the [Microsoft learn platform](https://docs.microsoft.com/en-us/learn/) would significantly help you get better understanding of the topics covered in this program.
 The MSP's will outline which modules you have to do in the respective GitHub Documentaion.
 
-### MSA ertificate
+### MSA certificate
 In order to get a MSA certificate, you **must**:
 1. pass at least two projects in this program, **and**
 2. complete all related Microsoft Learn modules (The MSP's will outline which modules you have to do in the respective GitHub Documentaion).
