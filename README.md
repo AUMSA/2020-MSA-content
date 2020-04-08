@@ -11,7 +11,7 @@ MSA Australia 2020 will cover 3 main topics:
 There would be one project for each topic. The detail of each project would be announced shortly in the respective GitHub Documentation.
 
 ## Microsoft Azure for Students
-A Azure account is required to start the program. If you do not have one, please [sign up](https://github.com/AUMSA/2020-Phase-1/tree/master/Azure%20For%20Students) for a free account (no credit card needed), and you will et $100 credit as well as 12 months of free Azure services. Find out more information [here](https://azure.microsoft.com/en-us/free/students/).
+An Azure account is required to start the program. If you do not have one, please [sign up](https://github.com/AUMSA/2020-Phase-1/tree/master/Azure%20For%20Students) for a free account (no credit card needed), and you will et $100 credit as well as 12 months of free Azure services. Find out more information [here](https://azure.microsoft.com/en-us/free/students/).
 
 ## Bootcamps & Supporting Workshops
 ### Bootcamps
