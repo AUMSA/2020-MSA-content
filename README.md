@@ -13,7 +13,7 @@ There are 3 main bootcamps that will be run on Microsoft Teams.
 1) AI & Advanced Analytics
    - 13 April 2020
    - 14 April 2020
-2) Cloud COmputing with Azure (20th May 2020)
+2) Cloud Computing with Azure (20th May 2020)
 3) Web App & APIs (End of July)
 
 ### Supporting Workshops
