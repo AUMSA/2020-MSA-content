@@ -7,18 +7,33 @@ MSA Australia 2020 will cover 3 main topics:
   
 There would be one project for each topic to complete. The detail of each project would be announced shortly in the respective GitHub Documentation.
 
-## Supporting Workshops
+## Bootcamps & Supporting Workshops
+### Bootcamps
+There are 3 main bootcamps that will be run on Microsoft Teams.
+1) AI & Advanced Analytics (13th April 2020)
+2) Cloud COmputing with Azure (20th May 2020)
+3) Web App & APIs (End of July)
+
+### Supporting Workshops
 The MSA 2020 program will also host a series of complimenting workshops:
 1) Git & GitHub
 2) DevOps and Project Workflow
 3) Presentation and Soft Skills
 
-## Microsoft Learn
-Completing the modules on the [Microsoft learn platform](https://docs.microsoft.com/en-us/learn/) would significantly help you get better understanding of the topics covered in this program.
-The MSP's will outline which modules are recommended to do in the respective GitHub Documentaion.
+> To endure the bootcamps to be run smoothly, please always mute your microphone unless you want to ask question.
 
-## Submission for Project
-Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything. If your repository is private please add the username: **msa-australia** as a collaborator.
+
+## MSA Project
+Please read through the criteria on the respective GitHub documentation to get more information about respective project.
+
+###  Microsoft Learn
+Completing the modules on the [Microsoft learn platform](https://docs.microsoft.com/en-us/learn/) would significantly help you get better understanding of the topics covered in this program.
+The MSP's will outline which modules you have to do in the respective GitHub Documentaion.
+
+### MSA ertificate
+In order to get a MSA certificate, you **must**:
+1. pass at least two projects in this program, **and**
+2. complete all related Microsoft Learn modules (The MSP's will outline which modules you have to do in the respective GitHub Documentaion).
 
 ## Microsoft Azure for Students
 Sign up for Microsoft Azure for Students [(Documentation can be found here)](https://github.com/AUMSA/2020-Phase-1/tree/master/Azure%20For%20Students). Get $100 credit as well as 12 months of free Azure services when you create your free account (there is no credit card needed). Find out more information [here](https://azure.microsoft.com/en-us/free/students/).
