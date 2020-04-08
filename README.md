@@ -39,8 +39,8 @@ The MSP's will outline which modules you have to do in the respective GitHub Doc
 
 ### MSA Certificate
 In order to get MSA certificate, you **must**:
-1. pass at least two projects in this program, **and**
-2. complete their related Microsoft Learn modules (The MSP's will outline which modules you have to do in the respective GitHub Documentaion).
+1. Pass at least two projects in this program; **and**
+2. Complete their related Microsoft Learn modules (The MSP's will outline which modules you have to do in the respective GitHub Documentaion).
 
 ### Top 20 MSA Students
 The top 20 students with the most amount of points will be mentored by Microsoft professionals to participate in the [Microsoft Imagine Cup 2020](https://imaginecup.microsoft.com/en-us).
