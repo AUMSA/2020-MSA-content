@@ -14,8 +14,10 @@ There are several bootcamps that will be run on Microsoft Teams.
 1) [AI & Advanced Analytics](https://www.facebook.com/events/220234762372121/)
    - 13 April 2020
    - 14 April 2020
-2) Cloud Computing with Azure (20th May 2020)
-3) Web App & APIs (End of July)
+2) Cloud Computing with Azure 
+   - 20th May 2020
+3) Web App & APIs
+   - End of July 2020
 
 ### Supporting Workshops
 The MSA 2020 program will also host a series of complimenting workshops:
