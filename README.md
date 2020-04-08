@@ -38,7 +38,10 @@ The MSP's will outline which modules you have to do in the respective GitHub Doc
 ### MSA certificate
 In order to get a MSA certificate, you **must**:
 1. pass at least two projects in this program, **and**
-2. complete all related Microsoft Learn modules (The MSP's will outline which modules you have to do in the respective GitHub Documentaion).
+2. complete their related Microsoft Learn modules (The MSP's will outline which modules you have to do in the respective GitHub Documentaion).
+
+### Top 20 Student in MSA
+The top 20 students with the most amount of points will be mentored by Microsoft professionals to participate in the [Microsoft Imagine Cup 2020](https://imaginecup.microsoft.com/en-us).
 
 ## Microsoft Azure for Students
 Sign up for Microsoft Azure for Students [(Documentation can be found here)](https://github.com/AUMSA/2020-Phase-1/tree/master/Azure%20For%20Students). Get $100 credit as well as 12 months of free Azure services when you create your free account (there is no credit card needed). Find out more information [here](https://azure.microsoft.com/en-us/free/students/).
