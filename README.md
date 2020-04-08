@@ -14,12 +14,12 @@ There would be one project for each topic. The detail of each project would be a
 ### Bootcamps
 There are several bootcamps that will be run on Microsoft Teams. 
 1) [AI & Advanced Analytics](https://www.facebook.com/events/220234762372121/)
-   - 13 April 2020
-   - 14 April 2020
+   - 13 April 2020 (Recording can be found [here])
+   - 14 April 2020 (Recording can be found [here])
 2) Cloud Computing with Azure 
-   - 20th May 2020
+   - 20th May 2020 (Recording can be found [here])
 3) Web App & APIs
-   - End of July 2020
+   - End of July 2020 (Recording can be found [here])
 
 ### Supporting Workshops
 The MSA 2020 program will also host a series of complimenting workshops:
