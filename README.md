@@ -14,8 +14,8 @@ There would be one project for each topic. The detail of each project would be a
 ### Bootcamps
 There are several bootcamps that will be run on Microsoft Teams. 
 1) [AI & Advanced Analytics](https://www.facebook.com/events/220234762372121/)
-   - 13 April 2020 (Recording can be found [here])
-   - 14 April 2020 (Recording can be found [here])
+   - 13 April 2020 (Low/No code Approach; Recording can be found [here])
+   - 14 April 2020 (Code Approach; Recording can be found [here])
 2) Cloud Computing with Azure 
    - 20th May 2020 (Recording can be found [here])
 3) Web App & APIs
