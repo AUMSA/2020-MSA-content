@@ -10,8 +10,8 @@ There would be one project for each topic to complete. The detail of each projec
 
 ## Bootcamps & Supporting Workshops
 ### Bootcamps
-There are 3 main bootcamps that will be run on Microsoft Teams.
-1) AI & Advanced Analytics
+There are several bootcamps that will be run on Microsoft Teams. 
+1) [AI & Advanced Analytics](https://www.facebook.com/events/220234762372121/)
    - 13 April 2020
    - 14 April 2020
 2) Cloud Computing with Azure (20th May 2020)
