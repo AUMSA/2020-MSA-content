@@ -30,7 +30,7 @@ The MSA 2020 program will also host a series of complimenting workshops:
 > To ensure all the bootcamps to be run smoothly, please always mute your microphone as we will have a Q&A session at the end of the bootcamps.
 
 
-## MSA Project
+## MSA Projects
 Please read through the criteria on the respective GitHub documentation to get more information about respective project.
 
 ###  Microsoft Learn
