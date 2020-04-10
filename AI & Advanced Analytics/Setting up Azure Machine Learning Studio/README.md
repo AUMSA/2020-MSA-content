@@ -1,4 +1,4 @@
-# Setting up Azure Machine Learning Designer
+# Setting up Azure Machine Learning Studio
 ## Create a workspace
 An Azure Machine Learning workspace is a foundational resource in the cloud that you use to experiment, train, and deploy machine learning models. It ties your Azure subscription and resource group to an easily consumed object in the service.
 
