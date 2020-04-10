@@ -27,7 +27,7 @@ You create a workspace via the Azure portal, a web-based console for managing yo
 The designer saves a copy of the sample pipelines to your studio workspace. You can edit the pipeline to adapt it to your needs and save it as your own. Use them as a starting point to jumpstart your projects.
 
 ### 1) Open a sample pipeline
-1. Sign in to ml.azure.com, and select the workspace you want to work with.
+1. Sign in to [ml.azure.com](ml.azure.com), and select the workspace you want to work with.
 ![img07](img/img07.png)
 
 2. Select **Designer**, then select a sample pipeline under the **New pipeline** section. Select **Show more samples** for a complete list of samples.

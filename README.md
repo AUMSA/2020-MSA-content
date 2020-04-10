@@ -11,7 +11,7 @@ MSA Australia 2020 will cover 3 main topics:
 There would be one project for each topic. The detail of each project would be announced shortly in the respective GitHub Documentation.
 
 ## Microsoft Azure for Students
-An Azure account is required to start the program. If you do not have one, please [sign up](https://github.com/AUMSA/2020-Phase-1/tree/master/Azure%20For%20Students) for a free account (no credit card needed), and you will et $100 credit as well as 12 months of free Azure services. Find out more information [here](https://azure.microsoft.com/en-us/free/students/).
+An Azure account is required to start the program. If you do not have one, please [sign up](https://github.com/AUMSA/2020-Phase-1/tree/master/Azure%20For%20Students) for a free account (no credit card needed), and you will get $100 credit as well as 12 months of free Azure services. Find out more information [here](https://azure.microsoft.com/en-us/free/students/).
 
 ## Bootcamps & Supporting Workshops
 ### Bootcamps
@@ -30,7 +30,7 @@ The MSA 2020 program will also host a series of complimenting workshops:
 2) DevOps and Project Workflow
 3) Presentation and Soft Skills
 
-> *To ensure all the bootcamps & workshops to be run smoothly, please **always mute** your microphone as we will have a Q&A session at the end of the bootcamps.*
+> *To ensure all the bootcamps & workshops to be run smoothly, please **mute** your microphone as we will have a Q&A session at the end of the bootcamps.*
 
 ## MSA Projects
 Please read through the criteria on the respective GitHub documentation to get more information about respective project.
@@ -44,5 +44,12 @@ In order to get MSA certificate, you **must**:
 1. Pass at least two projects in this program; **and**
 2. Complete the related Microsoft Learn modules (The MSP's will outline which modules you have to do in the respective GitHub Documentaion).
 
-### Top 20 MSA Students
-The top 20 students with the most amount of points will be mentored by Microsoft professionals to participate in the [Microsoft Imagine Cup 2020](https://imaginecup.microsoft.com/en-us).
+### Top MSA Students
+The top students with the most amount of points will be mentored by Microsoft professionals to participate in the [Microsoft Imagine Cup 2020](https://imaginecup.microsoft.com/en-us).
+
+We also have exclusive prizes up for grab for the top students. Based on the points accumulated, while top students can earn exclusive Microsoft swags and goodies, there are special prizes for the top 3 participants:
+
+1. 1<sup>st</sup> place: Surface Book 2 
+2. 2<sup>nd</sup> place: Xbox One X
+3. 2<sup>rd</sup> place: Surface Headphone
+ 
