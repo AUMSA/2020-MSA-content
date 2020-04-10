@@ -1,47 +1,28 @@
 # MSA 2020 - AI & Advanced Analytics
 
 ## Table of Contents
-
 1. [Introduction](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#introduction)
-2. [How to complete this bootcamp](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#how-to-complete-this-bootcamp)
-3. [Resources](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#resources)
+2. [Resources](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#resources)
+3. [Assessment](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#assignment)
 4. [Project](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#resources)
-5. [Assignment](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#assignment)
-6. [Submission](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#submission)
-7. [Deadline](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#deadline)
+5. [Submission](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#submission)
+6. [Deadline](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#deadline)
 
 ## Introduction
-
 Welcome to the Microsoft Student Accelerator Australia 2020 bootcamp on AI and Analytics. This module hopes
 to teach you the fundamental ideas behind Machine Learning and give you a picture of what it looks like to use Machine Learning and why it's useful. Machine learning is one of the emerging technologies which has the power to change the world and we would like to enable everyone to harness it power. Hence, in this bootcamp, students from all background will be taught on how to get started with Machine Learning.
 
 ### Low/No code Approach
-
 For those who don't have any prior coding experience, we will be leveraging Azure Machine Learning Studio to
 create a Machine Learning model without writing any code. The Designer tool in ML Studio enables us to
 develop our project by dragging and dropping appropriate layers.
 
 ### Coding Approach
-
 We have catered our program to code wizards to who want to get their hands dirty. In this bootcamp we will be
 exploring many core concepts of Machine Learning through creating the program from scratch using Python and
 Azure Notebooks.
 
-## How to complete this bootcamp
-
-To complete this bootcamp, you will need to submit a project and complete the Microsoft Learn Modules given in the
-assignment section in this project. We recommend the following this order:
-
-1. Explore the resources section & complete Microsoft Learn Modules.
-2. Check-out the demo project.
-3. Select a project from the sample ideas or pick your own idea
-4. Complete & submit project according to guidelines mentioned in Project Section.
-
-If you're taking using Azure Machine Learning Studio then check out this quick start guide.
-Or, if you're developing using Python and Azure Notebooks, check the quick start guide here.
-
 ## Resources
-
 - You can have a look at this MS learn 6 hours course which would take your skill from beginner to intermediate (yes you read it right 6 hours!!)-
   https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ml-crash-course
 
@@ -51,22 +32,41 @@ Or, if you're developing using Python and Azure Notebooks, check the quick start
 - The MS learn video on Machine Learning is a good place to start. It'll give you a basic understanding of what Machine Learning is so you can understand the concepts discussed in this video a little better. We recommend reading through it beforehand. https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/
 
 #### Extra Resources
-
 - General Data Analysis information: https://github.com/wesm/pydata-book
 - This Pandas cheat sheet is good to have by: https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
 - If you want to go deeper and then this Full course on Machine Learning by Stanford university might come handy. You could find it here-
   https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 
-## Project
+## Assessment: 
+To complete AI & Advanced Analytics bootcamp, you are required to compete this assessment. You can complete this assignment using either using **Low/No code Approach** or **Coding Approach**.
 
-To consolidate your learning from this bootcamp we suggest completing a projects. Apart form learning purposes,
+### Low/No code Approach:
+#### Part-1
+If you're using Azure Machine Learning Studio then first read this [short guide](https://docs.microsoft.com/en-us/azure/machine-learning/studio/what-is-ml-studio). And then complete this [tutorial](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment).
+
+#### Part-2
+Complete one project from the ideas mentioned in [Project section](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#project) or of your choice using Azure Machine Learning Studio.
+
+> Please follow the project completion guidelines in [Project section](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#project) and the submission guidelines in Submission section.
+
+### Coding Approach:
+#### Part-1
+If you want to code your own project then complete this [Microsoft Learn Module](https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/).
+
+#### Part-2
+Complete one project from the ideas mentioned in [Project section](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#project) or of your choice using Azure Notebooks or similar tools.
+
+> Please follow the project completion guidelines in [Project section](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#project) and the submission guidelines in Submission section.
+
+### Project
+To consolidate your learning from this bootcamp, you are required to complete a project. Apart from learning purposes,
 you can also share this project in your CV/resume and it might be useful in your future job search.
-The projects are also mandatory and part of this bootcamp's assessment. You must complete the project with the following guidelines:
+The projects are mandatory and part of this bootcamp's assessment. You **must** complete the project with the following guidelines:
 
-- You have to upload and maintain a GitHub repo for your project
-- Your project must not have only one commit. We need to check commit history to ensure the validity of the project
-- If it's a code file, it must have comments to explain the major steps in your code
+- You have to upload and maintain a GitHub repository for your project
+- Your project **must not** have only one commit. We need to check commit history to ensure the validity of the project
+- If it's a code file, it **must** have comments to explain the major steps in your code
 - Add a README.md file explaining your project idea.
 
 Here's a list of cool projects ideas to inspire you:
@@ -79,29 +79,11 @@ If you have our own project idea then feel free to implement that. However, plea
 
 Here are some open datasets to help with your projects: https://docs.microsoft.com/en-us/azure/open-datasets/overview-what-are-open-datasets
 
-## Assignment: 
-
-#### Part-1
-To assist you finishing learn the tools and complete the project, we have created two Introductory Lessons. We
-suggest you complete these first before proceeding with your projects.
-
-- If you're using Azure Machine Learning Studio then first read this [short guide](https://docs.microsoft.com/en-us/azure/machine-learning/studio/what-is-ml-studio). And then complete this [tutorial](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment).
-
-- If you will code your own project then complete this [Microsoft Learn Module](https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/).
-
-#### Part-2
-
-Complete one project from the ideas mentioned above or of your choice. You can complete the project with either using Azure Machine Learning Studio or code up the project using Azure Notebooks or similar tools.
-
-> Please follow the project completion guidelines in Project section and the submission guidelines in Submission section.
-
-### Submission
-
+## Submission
 To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks.
-[Insert Link]
+[Submission Link]
 
 Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything. If your repository is private please add the username: **msa-australia** as a collaborator.
 
-### Deadline
-
-The deadline to complete this bootcamp is **13th June 2020**.
+## Deadline
+The assessment of this bootcamp is due by **13th June 2020**. Any submission after the deadline **will not** be accepted.
