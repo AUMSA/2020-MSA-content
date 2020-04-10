@@ -40,7 +40,7 @@ Azure Notebooks. Click [here](https://github.com/AUMSA/2020-MSA-content/tree/mas
 ## Assessment: 
 To complete AI & Advanced Analytics bootcamp, you are required to compete this assessment. You can complete this assignment using either using **Low/No code Approach** or **Coding Approach**.
 
-### 1. Low/No code Approach:
+### - Low/No code Approach:
 #### Part-1
 If you're using Azure Machine Learning Studio then first read this [short guide](https://docs.microsoft.com/en-us/azure/machine-learning/studio/what-is-ml-studio). And then complete this [tutorial](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment).
 
@@ -49,7 +49,7 @@ Complete one project from the ideas mentioned in [Project section](https://githu
 
 > Please follow the project completion guidelines in [Project section](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#project) and the submission guidelines in Submission section.
 
-### 2. Coding Approach:
+### - Coding Approach:
 #### Part-1
 If you want to code your own project then complete this [Microsoft Learn Module](https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/).
 
