@@ -49,7 +49,7 @@ The top students with the most amount of points will be mentored by Microsoft pr
 
 We also have exclusive prizes up for grab for the top students. Based on the points accumulated, while top students can earn exclusive Microsoft swags and goodies, there are special prizes for the top 3 participants:
 
-1. 1<sup>st<sup> place: Surface Book 2 
-2. 2<sup>nd<sup> place: Xbox One X
-3. 2<sup>rd<sup> place: Surface Headphone
+1. 1<sup>st</sup> place: Surface Book 2 
+2. 2<sup>nd</sup> place: Xbox One X
+3. 2<sup>rd</sup> place: Surface Headphone
  
