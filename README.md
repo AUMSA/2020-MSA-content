@@ -32,8 +32,8 @@ The MSA 2020 program will also host a series of complimenting workshops:
 
 > *To ensure all the bootcamps & workshops to be run smoothly, please **mute** your microphone as we will have a Q&A session at the end of the bootcamps.*
 
-## MSA Projects
-Please read through the criteria on the respective GitHub documentation to get more information about respective project.
+## MSA Assessments
+Each bootcamp will have one assessment to complete. Please read through the criteria on the respective GitHub documentation to get more information about respective assessment.
 
 ###  Microsoft Learn
 Completing the modules on the [Microsoft learn platform](https://docs.microsoft.com/en-us/learn/) would significantly help you get better understanding of the topics covered in this program.
