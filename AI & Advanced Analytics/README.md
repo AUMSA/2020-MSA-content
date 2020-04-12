@@ -92,9 +92,9 @@ The projects are mandatory and part of this bootcamp's assessment. You **must** 
 
 Here's a list of cool projects ideas to inspire you:
 
-1. Idea - Dataset
-2. Idea - Dataset
-3. Idea - Dataset
+1. A ML model to classify flowers based on their species - [Dataset](http://archive.ics.uci.edu/ml/datasets/Iris)
+2. A ML Model to detect if a person has Parkinson's disease - [Dataset](https://www.kdnuggets.com/2020/03/20-machine-learning-datasets-project-ideas.html)
+3. A ML model to identify emails are spam or not - [Dataset](https://archive.ics.uci.edu/ml/datasets/Spambase)
 
 If you have our own project idea then feel free to implement that. However, please make sure you have a README file that contains enough information about what your project is about.
 
