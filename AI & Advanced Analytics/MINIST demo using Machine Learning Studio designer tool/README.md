@@ -11,10 +11,10 @@
 ![img02](img/img02.png)
 
 ## Demo Experiment
-1. In this tutorial we will be running a demo experiment of predicting the handwritten numbers using Machine Learning Model. For this experiment we will be utilising the pre-defined data set available in Machine Learning studio under sample datasets 
+1. In this tutorial we will be running a demo experiment of predicting the handwritten numbers using Machine Learning Model. For this experiment we will be utilising the pre-defined data set available in Machine Learning studio under sample datasets.
 ![img03](img/img03.png)
 
-2. From the drop-down list of **Samples** choose **MNIST Train 60K 28x28 dense**, click on the dataset and drag it on to the workspace in the centre, similarly choose **MNIST Test 10K 28x28 dense** and drag it on to the workspace .
+2. From the drop-down list of **Samples** choose **MNIST Train 60K 28x28 dense**, click on the dataset and drag it on to the workspace in the centre, similarly choose **MNIST Test 10K 28x28 dense** and drag it on to the workspace.
 ![img04](img/img04.png)
 
 3. Azure Machine Learning studio has several in-built functions that are used to perform pre-processing actions on the dataset itself which is discussed in the later section of the document. Now from left panel Choose from the in-built Machine Learning algorithms available under **Machine Learning** tab select Multiclass Neural Network and drag it on to workspace. In the same left panel search for **Train model** and drag into on to workspace. Similarly drag in **Score Model** and **Evaluate Model**.
@@ -63,8 +63,9 @@ Azure Machine learning studio also supports user to perform several of pre-proce
 
 2. Click on the Split Data function and navigate to the right panel to perform splitting action. The splitting mode, Fraction of splitting are specified as shown below.
 ![img20](img/img20.png)
-> [**NOTE**: Here the splitting mode is based on rows due to the nature of dataset. The fraction of split is 0.7 which means 70% of data is split into first node (first white dot from left at bottom of split function) and rest of it is split into second node. It is an ideal practice to split data into 70% for train set and 30% for test set in general. More information about split function can be found in Microsoft help documentation] 
-As mentioned above the split data is now 70% into first node which will be used to train the model and 30% into second node which is used for testing. As a rule of thumb nodes in ML studio are always numbered from left 
+> [**NOTE**: Here the splitting mode is based on rows due to the nature of dataset. The fraction of split is 0.7 which means 70% of data is split into first node (first white dot from left at bottom of split function) and rest of it is split into second node. It is an ideal practice to split data into 70% for train set and 30% for test set in general. More information about split function can be found in Microsoft help documentation]
+
+3. As mentioned above the split data is now 70% into first node which will be used to train the model and 30% into second node which is used for testing. As a rule of thumb nodes in ML studio are always numbered from left.
 ![img21](img/img21.png)
 
 #### Cleaning the missing data
