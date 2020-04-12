@@ -56,7 +56,15 @@ To complete AI & Advanced Analytics bootcamp, you are required to compete this a
 
 ### Low/No code Approach:
 #### Part-1
-If you're using Azure Machine Learning Studio then first read this [short guide](https://docs.microsoft.com/en-us/azure/machine-learning/studio/what-is-ml-studio). And then complete this [tutorial](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment).
+If you're using Azure Machine Learning Designer then choose one of the following modules on Microsoft Learn and complete it. We recommend doing multiple if possible and would give you extra points. 
+
+1. [AI for Manufacturing](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-manufacturing/)
+2. [AI for Retail](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-retail/)
+3. [AI for Healthcare](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-healthcare/)
+4. [AI for Finacial Servises](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-financial-services/)
+5. [AI for Government](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-government/)
+6. [AI for Education](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-education/)
+
 
 #### Part-2
 Complete one project from the ideas mentioned in [Project section](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#project) or of your choice using Azure Machine Learning Studio.
