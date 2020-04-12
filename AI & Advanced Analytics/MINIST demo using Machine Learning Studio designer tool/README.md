@@ -11,7 +11,7 @@
 ![img02](img/img02.png)
 
 ## Demo Experiment
-1. In this tutorial we will be running a demo experiment of predicting the handwritten numbers using Machine Learning Model. In this experiment we will use the pre-defined data set available in Machine Learning studio under sample datasets.
+1. In this tutorial we will be running a demo experiment of predicting the handwritten numbers using Machine Learning Model. In this experiment we will use the pre-defined data set available under sample datasets.
 ![img03](img/img03.png)
 
 2. From the drop-down list of **Samples** choose **MNIST Train 60K 28x28 dense**, click on the dataset and drag it on to the workspace in the centre, similarly choose **MNIST Test 10K 28x28 dense** and drag it on to the workspace.
