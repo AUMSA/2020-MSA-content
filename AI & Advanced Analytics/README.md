@@ -24,6 +24,16 @@ Azure Notebooks. Click [here](https://github.com/AUMSA/2020-MSA-content/tree/mas
 ## Resources
 
 ### Low/No code Approach:
+- Although Microsoft AI Business School is a fantastic place for starting your Machine Learning journey: https://www.microsoft.com/en-us/ai/ai-business-school
+- Learn out what Azure Machine Learning Desinger is and how to utilise is through this guide
+  https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer
+- Get hands on with the Azure Machine Learning Studio by finishising your experiment:
+  https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment
+
+#### Extra Resources: 
+This YouTube playlist gives a very comprehensive walkthrough of the Azure Machine Learning Designer and we recommend checking it out: 
+https://www.youtube.com/watch?v=uBYu_yrz_ZQ&list=PL8eNk_zTBST_WSR_KUBex8TDnQ21GetSG
+
 
 ### Coding Approach:
 - You can have a look at this MS learn 6 hours course which would take your skill from beginner to intermediate (yes you read it right 6 hours!!)-
