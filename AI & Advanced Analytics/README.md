@@ -58,7 +58,7 @@ Complete one project from the ideas mentioned in [Project section](https://githu
 
 > Please follow the project completion guidelines in [Project section](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#project) and the submission guidelines in Submission section.
 
-### Project
+## Project
 To consolidate your learning from this bootcamp, you are required to complete a project. Apart from learning purposes,
 you can also share this project in your CV/resume and it might be useful in your future job search.
 The projects are mandatory and part of this bootcamp's assessment. You **must** complete the project with the following guidelines:
