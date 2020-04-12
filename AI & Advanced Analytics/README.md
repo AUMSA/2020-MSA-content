@@ -79,8 +79,8 @@ If you have our own project idea then feel free to implement that. However, plea
 Here are some open datasets to help with your projects: https://docs.microsoft.com/en-us/azure/open-datasets/overview-what-are-open-datasets
 
 ## Submission
-To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks.
-[Submission Link]
+To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks: 
+**Project Submission Link:** https://aka.ms/MSAAusProjectSubmission
 
 Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything. If your repository is private please add the username: **msa-australia** as a collaborator.
 
