@@ -22,6 +22,20 @@ exploring many core concepts of Machine Learning through creating the program fr
 Azure Notebooks. Click [here](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics/Setting%20up%20Azure%20Notebook) for tutorial on setting up Azure Notebook.
 
 ## Resources
+
+### Low/No code Approach:
+- Although Microsoft AI Business School is a fantastic place for starting your Machine Learning journey: https://www.microsoft.com/en-us/ai/ai-business-school
+- Learn out what Azure Machine Learning Desinger is and how to utilise is through this guide
+  https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer
+- Get hands on with the Azure Machine Learning Studio by finishising your experiment:
+  https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment
+
+#### Extra Resources: 
+This YouTube playlist gives a very comprehensive walkthrough of the Azure Machine Learning Designer and we recommend checking it out: 
+https://www.youtube.com/watch?v=uBYu_yrz_ZQ&list=PL8eNk_zTBST_WSR_KUBex8TDnQ21GetSG
+
+
+### Coding Approach:
 - You can have a look at this MS learn 6 hours course which would take your skill from beginner to intermediate (yes you read it right 6 hours!!)-
   https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ml-crash-course
 
@@ -42,7 +56,15 @@ To complete AI & Advanced Analytics bootcamp, you are required to compete this a
 
 ### Low/No code Approach:
 #### Part-1
-If you're using Azure Machine Learning Studio then first read this [short guide](https://docs.microsoft.com/en-us/azure/machine-learning/studio/what-is-ml-studio). And then complete this [tutorial](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment).
+If you're using Azure Machine Learning Designer then choose one of the following modules on Microsoft Learn and complete it. We recommend doing multiple if possible and would give you extra points. 
+
+1. [AI for Manufacturing](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-manufacturing/)
+2. [AI for Retail](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-retail/)
+3. [AI for Healthcare](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-healthcare/)
+4. [AI for Finacial Servises](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-financial-services/)
+5. [AI for Government](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-government/)
+6. [AI for Education](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-education/)
+
 
 #### Part-2
 Complete one project from the ideas mentioned in [Project section](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#project) or of your choice using Azure Machine Learning Studio.
@@ -58,7 +80,7 @@ Complete one project from the ideas mentioned in [Project section](https://githu
 
 > Please follow the project completion guidelines in [Project section](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#project) and the submission guidelines in Submission section.
 
-### Project
+## Project
 To consolidate your learning from this bootcamp, you are required to complete a project. Apart from learning purposes,
 you can also share this project in your CV/resume and it might be useful in your future job search.
 The projects are mandatory and part of this bootcamp's assessment. You **must** complete the project with the following guidelines:
@@ -79,8 +101,8 @@ If you have our own project idea then feel free to implement that. However, plea
 Here are some open datasets to help with your projects: https://docs.microsoft.com/en-us/azure/open-datasets/overview-what-are-open-datasets
 
 ## Submission
-To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks.
-[Submission Link]
+To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks: 
+**Project Submission Link:** https://aka.ms/MSAAusProjectSubmission
 
 Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything. If your repository is private please add the username: **msa-australia** as a collaborator.
 
