@@ -116,3 +116,6 @@ Please read through the criteria on the respective GitHub documentation prior to
 
 ## Deadline
 The assessment of this bootcamp is due by **13th June 2020**. Any submission after the deadline **will not** be accepted.
+
+## Points
+Your progress will be measured based on a point system. A maximum of 100 points will be awarded for a project and a maximum of 3 points will be awarded for the completion of a Microsoft Learn module.
