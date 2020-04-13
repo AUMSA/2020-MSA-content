@@ -96,6 +96,7 @@ The projects are mandatory and part of this bootcamp's assessment. You **must** 
 - If it's a code file, it **must** have comments to explain the major steps in your code
 - Add a README.md file explaining your project idea.
 
+#### Sample projects: 
 Here's a list of cool projects ideas to inspire you:
 
 1. A ML model to classify flowers based on their species - [Dataset](http://archive.ics.uci.edu/ml/datasets/Iris)
@@ -105,6 +106,7 @@ Here's a list of cool projects ideas to inspire you:
 If you have our own project idea then feel free to implement that. However, please make sure you have a README file that contains enough information about what your project is about.
 
 Here are some open datasets to help with your projects: https://docs.microsoft.com/en-us/azure/open-datasets/overview-what-are-open-datasets
+
 
 ## Submission
 To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks: 
