@@ -23,7 +23,7 @@ Azure Notebooks. Click [here](https://github.com/AUMSA/2020-MSA-content/tree/mas
 
 ## Bootcamp Slides
 1. [Slides for 13th April](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Bootcamp%20Slides/MSA-Bootcamp-13-April-Slides.pdf) - Low/No Code 
-2. Slides for 14th April - Code
+2. [Slides for 14th April](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Bootcamp%20Slides/MSA-Bootcamp-14-April-Slides.pdf) - Code
 
 ## Resources
 
