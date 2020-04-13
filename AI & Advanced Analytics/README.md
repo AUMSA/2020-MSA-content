@@ -105,8 +105,10 @@ Here's a list of cool projects ideas to inspire you:
 
 If you have our own project idea then feel free to implement that. However, please make sure you have a README file that contains enough information about what your project is about.
 
-Here are some open datasets to help with your projects: https://docs.microsoft.com/en-us/azure/open-datasets/overview-what-are-open-datasets
-
+Here are some open datasets to help with your projects: 
+- [Microsoft Open Datasets](https://azure.microsoft.com/en-au/services/open-datasets/) - Curated open data made easily accessible on Azure
+- [Kaggle](https://www.kaggle.com/datasets) - One of the largest datasets in the world. From the latest COVID-19 data to Formula 1 races, Kaggle has it all. 
+- [UCI Machine Learning Dataset](http://archive.ics.uci.edu/ml/datasets.php) - Oldest machine learning dataset available in the internet. 
 
 ## Submission
 To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks: 
