@@ -17,7 +17,7 @@ An Azure account is required to start the program. If you do not have one, pleas
 ### Bootcamps
 There are several bootcamps that will be run on Microsoft Teams. 
 1) [AI & Advanced Analytics](https://www.facebook.com/events/220234762372121/)
-   - 13 April 2020 (Low/No code Approach; recording can be found [here]; slides can be found [here](https://onedrive.live.com/view.aspx?resid=7B9377522ADB31F2!5578&ithint=file%2cpptx&authkey=!AH1zBJFWnVwbtk0))
+   - 13 April 2020 (Low/No code Approach; recording can be found [here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWM4ZDVmOTgtYTUwZi00NGE0LTk0MjItYWIzOGIxZjM1NGMw%40thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%22df761738-2be7-4c53-bd6e-9c06b710296b%22%2c%22IsBroadcastMeeting%22%3atrue%7d); slides can be found [here](https://onedrive.live.com/view.aspx?resid=7B9377522ADB31F2!5578&ithint=file%2cpptx&authkey=!AH1zBJFWnVwbtk0))
    - 14 April 2020 (Coding Approach; recording can be found [here])
 2) Cloud Computing with Azure 
    - 20th May 2020 (Recording can be found [here])
