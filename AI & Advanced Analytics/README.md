@@ -85,6 +85,12 @@ To consolidate your learning from this bootcamp, you are required to complete a 
 you can also share this project in your CV/resume and it might be useful in your future job search.
 The projects are mandatory and part of this bootcamp's assessment. You **must** complete the project with the following guidelines:
 
+#### Low/No Coding Approach: 
+- This guidelines are valid if you're using Azure Machine Learning Designer.
+- You have to add a proper description and summary of the project. 
+- In the description section explain the source of the dataset 
+
+#### Coding Approach: 
 - You have to upload and maintain a GitHub repository for your project
 - Your project **must not** have only one commit. We need to check commit history to ensure the validity of the project
 - If it's a code file, it **must** have comments to explain the major steps in your code
