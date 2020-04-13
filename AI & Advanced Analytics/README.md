@@ -21,6 +21,10 @@ We have catered our program to code wizards to who want to get their hands dirty
 exploring many core concepts of Machine Learning through creating the program from scratch using Python and
 Azure Notebooks. Click [here](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics/Setting%20up%20Azure%20Notebook) for tutorial on setting up Azure Notebook.
 
+## Bootcamp Slides
+1. [Slides for 13th April](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/MSA-Bootcamp-13-April-Slides.pdf)
+2. Slides for 14th April
+
 ## Resources
 
 ### Low/No code Approach:
