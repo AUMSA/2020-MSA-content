@@ -15,5 +15,6 @@ You will get the error
 
 This is due to ZSH globbing function. In order to fix it, please refer to this [tutorial](https://github.com/beauwilliams/MSA-AUS-2020-AzureML/blob/master/Notes/Links.md).
 
+### Click [here](https://github.com/Azure/MachineLearningNotebooks/tree/master/tutorials/image-classification-mnist-data) for the ipynb file.
 
 ### Click [here](https://github.com/beauwilliams/MSA-AUS-2020-AzureML) for more resources.
