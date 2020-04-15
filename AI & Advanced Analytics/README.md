@@ -7,7 +7,7 @@
 5. [Submission](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#submission)
 6. [Deadline](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#deadline)
 
-## Introduction
+## 1. Introduction
 Welcome to the Microsoft Student Accelerator Australia 2020 bootcamp on AI and Analytics. This module hopes
 to teach you the fundamental ideas behind Machine Learning and give you a picture of what it looks like to use Machine Learning and why it's useful. Machine learning is one of the emerging technologies which has the power to change the world and we would like to enable everyone to harness it power. Hence, in this bootcamp, students from all background will be taught on how to get started with Machine Learning. Click [here](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Introduction%20to%20Machine%20Learning.md) for an introduction to machine learning.
 
@@ -28,7 +28,10 @@ Azure Notebooks. Click [here](https://github.com/AUMSA/2020-MSA-content/tree/mas
 ## Technical Bootcamp Demo
 1. [Project Walkthrough for Technical Bootcamp for 14th April](https://1drv.ms/v/s!ArEj5-yGzsb8ipssYmVC2liaIXd3HQ?e=Z9FuxC)
 
-## Resources
+## Bootcamp Recordings
+The recordings can be accessed using the same Bootcamp url that we sent to you via email.
+
+## 2. Resources
 
 ### Low/No code Approach:
 - Although Microsoft AI Business School is a fantastic place for starting your Machine Learning journey: https://www.microsoft.com/en-us/ai/ai-business-school
@@ -58,7 +61,7 @@ https://www.youtube.com/watch?v=uBYu_yrz_ZQ&list=PL8eNk_zTBST_WSR_KUBex8TDnQ21Ge
 - If you want to go deeper and then this Full course on Machine Learning by Stanford university might come handy. You could find it here-
   https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 
-## Assessment: 
+## 3. Assessment: 
 To complete AI & Advanced Analytics bootcamp, you are required to compete this assessment. You can complete this assignment using either using **Low/No code Approach** or **Coding Approach**.
 
 ### Low/No code Approach:
@@ -117,13 +120,13 @@ Here are some open datasets to help with your projects:
 - [Kaggle](https://www.kaggle.com/datasets) - One of the largest datasets in the world. From the latest COVID-19 data to Formula 1 races, Kaggle has it all. 
 - [UCI Machine Learning Dataset](http://archive.ics.uci.edu/ml/datasets.php) - Oldest machine learning dataset available in the internet. 
 
-## Submission
+## 4. Submission
 To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks: 
 **Project Submission Link:** https://aka.ms/MSAAusProjectSubmission
 
 Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything. If your repository is private please add the username: **msa-australia** as a collaborator.
 
-## Deadline
+## 5. Deadline
 The assessment of this bootcamp is due by **13th June 2020**. Any submission after the deadline **will not** be accepted.
 
 ## Points
