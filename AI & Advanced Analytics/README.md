@@ -9,21 +9,21 @@
 
 ## 1. Introduction
 Welcome to the Microsoft Student Accelerator Australia 2020 bootcamp on AI and Analytics. This module hopes
-to teach you the fundamental ideas behind Machine Learning and give you a picture of what it looks like to use Machine Learning and why it's useful. Machine learning is one of the emerging technologies which has the power to change the world and we would like to enable everyone to harness it power. Hence, in this bootcamp, students from all background will be taught on how to get started with Machine Learning. Click [here](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Introduction%20to%20Machine%20Learning.md) for an introduction to machine learning.
+to teach you the fundamental ideas behind Machine Learning and give you a picture of what it looks like to use Machine Learning and why it's useful. Machine learning is one of the emerging technologies which has the power to change the world and we would like to enable everyone to harness it power. Hence, in this bootcamp, students from all background will be taught on how to get started with Machine Learning. 
 
 ### Low/No code Approach
 For those who don't have any prior coding experience, we will be leveraging Azure Machine Learning Studio to
 create a Machine Learning model without writing any code. The Designer tool in ML Studio enables us to
-develop our project by dragging and dropping appropriate layers. Click [here](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics/Setting%20up%20Azure%20Machine%20Learning%20Studio) for tutorial on setting up Machine Learning Studio.
+develop our project by dragging and dropping appropriate layers. Click [here](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics/Non-Tech%20Stream/Setting%20up%20Azure%20Machine%20Learning%20Studio) for tutorial on setting up Machine Learning Studio.
 
 ### Coding Approach
 We have catered our program to code wizards to who want to get their hands dirty. In this bootcamp we will be
 exploring many core concepts of Machine Learning through creating the program from scratch using Python and
-Azure Notebooks. Click [here](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics/Setting%20up%20Azure%20Notebook) for tutorial on setting up Azure Notebook.
+Azure Notebooks. Click [here](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics/Tech%20Stream/Setting%20up%20Azure%20Notebook) for tutorial on setting up Azure Notebook.
 
 ## Bootcamp Slides
-1. [Slides for 13th April](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Bootcamp%20Slides/MSA-Bootcamp-13-April-Slides.pdf) - Low/No Code 
-2. [Slides for 14th April](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Bootcamp%20Slides/MSA-Bootcamp-14-April-Slides.pdf) - Code
+1. [Slides for 13th April](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Non-Tech%20Stream/MSA-Bootcamp-13-April-Slides.pdf) - Low/No Code 
+2. [Slides for 14th April](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Tech%20Stream/MSA-Bootcamp-14-April-Slides.pdf) - Code
 
 ## Technical Bootcamp Demo
 1. [Project Walkthrough for Technical Bootcamp for 14th April](https://1drv.ms/v/s!ArEj5-yGzsb8ipssYmVC2liaIXd3HQ?e=Z9FuxC)
