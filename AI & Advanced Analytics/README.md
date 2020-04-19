@@ -14,12 +14,12 @@ to teach you the fundamental ideas behind Machine Learning and give you a pictur
 ### Low/No code Approach
 For those who don't have any prior coding experience, we will be leveraging Azure Machine Learning Studio to
 create a Machine Learning model without writing any code. The Designer tool in ML Studio enables us to
-develop our project by dragging and dropping appropriate layers. Click [here](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics/Non-Tech%20Stream/Setting%20up%20Azure%20Machine%20Learning%20Studio) for tutorial on setting up Machine Learning Studio.
+develop our project by dragging and dropping appropriate layers. Click [here](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics/Non-Tech%20Stream/Setting%20up%20Azure%20Machine%20Learning%20Studio) for tutorial on setting up Machine Learning Studio. (Please note you need to have an [Azure Student Subscription](https://github.com/AUMSA/2020-MSA-content/tree/master/Azure%20For%20Students) to access this.)
 
 ### Coding Approach
 We have catered our program to code wizards to who want to get their hands dirty. In this bootcamp we will be
 exploring many core concepts of Machine Learning through creating the program from scratch using Python and
-Azure Notebooks. Click [here](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics/Tech%20Stream/Setting%20up%20Azure%20Notebook) for tutorial on setting up Azure Notebook.
+Azure Notebooks. Click [here](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics/Tech%20Stream/Setting%20up%20Azure%20Notebook) for tutorial on setting up Azure Notebook. (Please note you need to have an [Azure Student Subscription](https://github.com/AUMSA/2020-MSA-content/tree/master/Azure%20For%20Students) to access this.)
 
 ## Bootcamp Slides
 1. [Slides for 13th April](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Non-Tech%20Stream/MSA-Bootcamp-13-April-Slides.pdf) - Low/No Code 
