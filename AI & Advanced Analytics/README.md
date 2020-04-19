@@ -26,7 +26,7 @@ Azure Notebooks. Click [here](https://github.com/AUMSA/2020-MSA-content/tree/mas
 2. [Slides for 14th April](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Tech%20Stream/MSA-Bootcamp-14-April-Slides.pdf) - Code
 
 ## Technical Bootcamp Demo
-1. [Project Walkthrough for Technical Bootcamp for 14th April](https://1drv.ms/v/s!ArEj5-yGzsb8ipssYmVC2liaIXd3HQ?e=Z9FuxC)
+1. [Project Walkthrough for Technical Bootcamp for 14th April](https://1drv.ms/v/s!ArEj5-yGzsb8ipssYmVC2liaIXd3HQ?e=Z9FuxC) - Good video & audio quality 
 
 ## Bootcamp Recordings
 The recordings can be accessed using the same Bootcamp url that we sent to you via email.
