@@ -127,6 +127,9 @@ Here are some open datasets to help with your projects:
 - [UCI Machine Learning Dataset](http://archive.ics.uci.edu/ml/datasets.php) - Oldest machine learning dataset available in the internet. 
 
 ## 4. Submission
+Review the submission guidelines again here: 
+- [Project Submission Guidelines](https://stdntpartners-my.sharepoint.com/:w:/g/personal/kaif_ahsan_studentpartner_com/EaMdIgV5WvhIlX1zWslTnesBhuRgZ9eAT39ISCr8GRePyg?e=v8uteh)
+
 To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks: 
 **Project Submission Link:** https://aka.ms/MSAAusProjectSubmission
 
@@ -137,3 +140,5 @@ The assessment of this bootcamp is due by **28th June 2020**. Any submission aft
 
 ## Points
 Your progress will be measured based on a point system. A maximum of 100 points will be awarded for a project and a maximum of 3 points will be awarded for the completion of a Microsoft Learn module.
+
+- [Marking Rubric](https://stdntpartners-my.sharepoint.com/:w:/g/personal/kaif_ahsan_studentpartner_com/EXyDSEz4XyxHrayBgvFt08gBxykSHItKfz27TOaNO6EGOA?e=YwYXpa)
