@@ -130,7 +130,7 @@ To submit your work please fill in the submission form below. This will require 
 Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything. If your repository is private please add the username: **msa-australia** as a collaborator.
 
 ## 5. Deadline
-The assessment of this bootcamp is due by **13th June 2020**. Any submission after the deadline **will not** be accepted.
+The assessment of this bootcamp is due by **28th June 2020**. Any submission after the deadline **will not** be accepted.
 
 ## Points
 Your progress will be measured based on a point system. A maximum of 100 points will be awarded for a project and a maximum of 3 points will be awarded for the completion of a Microsoft Learn module.
