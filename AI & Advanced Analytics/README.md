@@ -67,6 +67,9 @@ https://www.youtube.com/watch?v=uBYu_yrz_ZQ&list=PL8eNk_zTBST_WSR_KUBex8TDnQ21Ge
 ## 3. Assessment: 
 To complete AI & Advanced Analytics bootcamp, you are required to compete this assessment. You can complete this assignment using either using **Low/No code Approach** or **Coding Approach**.
 
+- [Project Submission Guidelines](https://stdntpartners-my.sharepoint.com/:w:/g/personal/kaif_ahsan_studentpartner_com/EaMdIgV5WvhIlX1zWslTnesBhuRgZ9eAT39ISCr8GRePyg?e=v8uteh)
+- [Marking Rubric](https://stdntpartners-my.sharepoint.com/:w:/g/personal/kaif_ahsan_studentpartner_com/EXyDSEz4XyxHrayBgvFt08gBxykSHItKfz27TOaNO6EGOA?e=YwYXpa)
+
 ### Low/No code Approach:
 #### Part-1
 If you're using Azure Machine Learning Designer then choose one of the following modules on Microsoft Learn and complete it. We recommend doing multiple if possible and would give you extra points. 
