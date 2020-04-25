@@ -11,7 +11,9 @@ However, we first need to make sure that we have Git installed on our computers.
 
 After installing it, start your terminal/command prompt and type the following command to verify that Git is ready to be used on your computer. 
 
-```git --version 
+```
+git --version 
+
 ```
 
 ## Repositories 
