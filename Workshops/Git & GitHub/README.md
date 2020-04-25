@@ -17,3 +17,12 @@ GitHub is a hosting platform for Git repositories. You can use Git on its own wi
 
 
 ## Getting Started with Git 
+
+We have put together a in-depth guidelines for setting up Git and using the main functionalities. Please click the below link to visit it. 
+
+- [Git Handbook]()
+
+
+## Getting Started with GitHub 
+GitHub is like Robin to your Batman or Bonnie to your Clyde. Follow the guidelines below and supercharge your Git powers. 
+- [GitHub Handbook]() 
