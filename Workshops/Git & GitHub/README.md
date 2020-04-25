@@ -32,3 +32,14 @@ GitHub is like Robin to your Batman or Bonnie to your Clyde. Follow the guidelin
 Done reading the guides and want to get your hands dirty. Here's a GitHub "Hello World" to start the magical world of GitHub
 
 - [GitHub Hello World](https://guides.github.com/activities/hello-world/)
+
+
+## Git & Beyond 
+
+- **Host your website** - **GitHub Pages** is a popular service for hosting web pages via GitHub. You can learn more about it here: https://guides.github.com/features/pages/
+
+- **Share code & notes** GitHub also allows you to easily share your code, notes or other snippets through GitHub Gist: https://gist.github.com/
+
+## Offical Docs 
+- You can find the offical GitHub Documentation here: https://help.github.com/en
+- They also have official video guides which you can find on this link: https://www.youtube.com/githubguides
