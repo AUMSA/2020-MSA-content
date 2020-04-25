@@ -113,7 +113,31 @@ The commit message should be a descriptive summary of the changes that you are c
 
 After executing that command, you will get the technical details about the commit printed in the terminal. And that's basically it, you have successfully made a commit in your project!
 
+> To create a new commit, you will need to repeat the process of adding files to the staging area and then committing them after. Again, it's very useful to use the **git status** command to see which files were modified, staged, or untracked.
 
+#### Commit History 
+To see all the commits that were made for our project, you can use the following command:
+
+```bash
+git log
+```
+
+The logs will show details for each commit, like the author name, the generated hash for the commit, date and time of the commit, and the commit message that we provided.
+
+#### Reverting Back to a Previous Version 
+To go back to a previous state of your project code that you committed, you can use the following command:
+
+```bash
+git checkout <commit-hash>
+```
+
+Replace `<commit-hash>` with the actual hash for the specific commit that you want to visit, which is listed with the `git log` command.
+
+To go back to the latest commit (the newest version of our project code), you can type this command:
+
+```bash
+git checkout master
+```
 ## Branches 
 
 ## Further Reading 
