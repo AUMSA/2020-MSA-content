@@ -20,12 +20,12 @@ GitHub is a hosting platform for Git repositories. You can use Git on its own wi
 
 We have put together a in-depth guidelines for setting up Git and using the main functionalities. Please click the below link to visit it. 
 
-- [Git Handbook]()
+- [Git Handbook](https://github.com/AUMSA/2020-MSA-content/blob/master/Workshops/Git-handbook.md)
 
 
 ## Getting Started with GitHub 
 GitHub is like Robin to your Batman or Bonnie to your Clyde. Follow the guidelines below and supercharge your Git powers. 
-- [GitHub Handbook]() 
+- [GitHub Handbook](https://github.com/AUMSA/2020-MSA-content/blob/master/Workshops/GitHub-Handbook.md) 
 
 
 ## Activity 
