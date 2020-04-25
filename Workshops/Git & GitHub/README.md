@@ -8,3 +8,12 @@ In other words, it's a system that tracks changes to our project files over time
 
 GitHub is a hosting platform for Git repositories. You can use Git on its own without Github (and other similar platforms), but it's difficult to collaborate or share your code with. others. 
 
+## Benefits of GitHub (especially as a student)
+1. Industry recognised platform to showcase your projects.  
+2. Very easy to contribute to open source projects. 
+3. Most companies use Git & GitHub to manage projects. 
+4. Often actively asked for in job descriptions & interviews. 
+5. Can be a free online backup for personal projects & work so mitigates the risk of losing them. 
+
+
+## Getting Started with Git 
