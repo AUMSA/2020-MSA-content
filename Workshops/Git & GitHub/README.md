@@ -26,3 +26,9 @@ We have put together a in-depth guidelines for setting up Git and using the main
 ## Getting Started with GitHub 
 GitHub is like Robin to your Batman or Bonnie to your Clyde. Follow the guidelines below and supercharge your Git powers. 
 - [GitHub Handbook]() 
+
+
+## Activity 
+Done reading the guides and want to get your hands dirty. Here's a GitHub "Hello World" to start the magical world of GitHub
+
+- [GitHub Hello World](https://guides.github.com/activities/hello-world/)
