@@ -50,7 +50,7 @@ The first thing we will do is create our local repository which we want to push 
 
 - **Step 1: Create a new local Git repository**
 
-Based on what we learned in the [**Learn Git In 15 Minutes**](https://www.youtube.com/watch?v=USjZcfj8yxE) tutorial, open up your terminal and navigate to your projects folder, then run the following command to create a new project folder and navigate into it:
+Based on what we learned in Git Handbook, open up your terminal and navigate to your projects folder, then run the following command to create a new project folder and navigate into it:
 
 ```bash
 mkdir hello-world
@@ -84,7 +84,7 @@ Save the file changes and then switch back to your terminal window.
 
 - **Step 3: Making our initial commit to the local repository**
 
-As learned [**Learn Git In 15 Minutes**](https://www.youtube.com/watch?v=USjZcfj8yxE) tutorial, run the following commands to track your files and make the initial commit in the local repository: 
+As learned in Git Handbook, run the following commands to track your files and make the initial commit in the local repository: 
 
 ```bash
 git add .
