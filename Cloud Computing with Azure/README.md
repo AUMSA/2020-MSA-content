@@ -10,6 +10,7 @@
 Welcome to the Microsoft Student Accelerator Australia 2020 bootcamp on Cloud Computing with Azure.
 
 ## 2. Resources
+More resources for this bootcamp will be uploaded soon
 
 ## 3. Assessment
 To complete *Cloud Computing with Azure* bootcamp, you are required to compete this assessment. More information will be uploaded soon.
