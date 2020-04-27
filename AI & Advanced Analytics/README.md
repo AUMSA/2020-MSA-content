@@ -72,7 +72,7 @@ To complete AI & Advanced Analytics bootcamp, you are required to compete this a
 
 ### Low/No code Approach:
 #### Part-1
-If you're using Azure Machine Learning Designer then choose one of the following modules on Microsoft Learn and complete it. We recommend doing multiple if possible and would give you extra points. 
+If you're using Azure Machine Learning Designer then choose one of the following Learning Paths on Microsoft Learn and complete it. We recommend doing multiple if possible and would give you extra points. 
 
 1. [AI for Manufacturing](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-manufacturing/)
 2. [AI for Retail](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-retail/)
@@ -89,7 +89,7 @@ Complete one project from the ideas mentioned in [Project section](https://githu
 
 ### Coding Approach:
 #### Part-1
-If you want to code your own project then complete this [Microsoft Learn Module](https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/).
+If you want to code your own project then complete this [Microsoft Learn Learning Path](https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/).
 
 #### Part-2
 Complete one project from the ideas mentioned in [Project section](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics#project) or of your choice using Azure Notebooks or similar tools.
@@ -139,6 +139,6 @@ Please read through the criteria on the respective GitHub documentation prior to
 The assessment of this bootcamp is due by **28th June 2020**. Any submission after the deadline **will not** be accepted.
 
 ## Points
-Your progress will be measured based on a point system. A maximum of 100 points will be awarded for a project and a maximum of 3 points will be awarded for the completion of a Microsoft Learn module.
+Your progress will be measured based on a point system. A maximum of 100 points will be awarded for a project and a maximum of 3 points will be awarded for the completion of a Microsoft Learn Learning Path.
 
 - [Marking Rubric](https://stdntpartners-my.sharepoint.com/:w:/g/personal/kaif_ahsan_studentpartner_com/EXyDSEz4XyxHrayBgvFt08gBxykSHItKfz27TOaNO6EGOA?e=YwYXpa)
