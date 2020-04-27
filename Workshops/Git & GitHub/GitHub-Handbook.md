@@ -22,8 +22,6 @@ To register a new account, visit [GitHub.com](http://github.com) and find the 'S
 
 Choose your new GitHub **username**, specify your existing **email** address (it's important to use your real email address because we will need to verify our account when we finalize the registration process) and the **password** of your choosing.
 
-![Github registration](img/github-register.png)
-
 After that, verify your account and you should be able to click the **'Create an account'** button at the bottom.
 
 - **Step 2: Choose your subscription**
@@ -94,11 +92,15 @@ Make sure to use the `git status` command frequently when working with Git. It's
 #### Creating a new GitHub Repository 
 To create a new GitHub repository, navigate to [github.com](http://github.com) and press the plus symbol in the top-right corner, then select the '**New repository**' option, as shown in the screenshot here:
 
-![Creating a new github repo](img/creating-new-repo.png)
+
+![Clicking new repo button](img/creating-a-repo.png)
+
 
 You can also navigate to the GitHub page for creating new repositories by visiting this link: https://github.com/new
 
-> INSERT IMAGE 
+
+![Creating a new github repo](img/creating-new-repo.png)
+
 
 On that page, we first need to specify a **Repository name** and an optional **Description.**
 For the **Repository name**, we can specify the same project name (**hello-world**) as the local repository that we are using in our example. If you want, you can also write a **Description** of your repository, but you can also skip that field as we did in the screenshot above.
@@ -113,7 +115,9 @@ If you wanted, you could initialize the repository with a **README** file, which
 
 #### Pushing code to the GitHub repo 
 After the last step, you will be forwarded to the starting page of your new GitHub repository that looks like this:
-> Insert Image 
+
+![Quick setup screen](img/quick-setu-screen.png)
+
 
 Since we've already created our Git repo locally, we can focus on the **`…or push an existing repository from the command line`** section of the page.
 
@@ -136,11 +140,10 @@ After the repository was pushed, you can navigate back to your GitHub account pa
 
 Now, you can use that link to share your project repository with other people.
 
-> INSERT IMAGE 
 
-For example, anyone can click on the **hello.js** file to see the contents of our project files.
+![Commit screen](img/commit-screen.png)
 
-Also, other developers can **clone** the remote repository to their local computer (or **download** it), by clicking on the green button highlighted in the screenshot.
+For example, anyone can click on the **README.md** repository to their local computer (or **download** it), by clicking on the green button highlighted in the screenshot.
 
 You can also see many other data from the repository, including past **commits**, existing **branches**, etc.
 
@@ -148,10 +151,10 @@ You can also see many other data from the repository, including past **commits**
 
 Now, any changes that we make to our local project files won't automatically affect the remote GitHub repository, until we **push** those changes again, to update it.
 
-For example, open the **hello.js** file with your favorite code editor and change the code to this:
+For example, open the **README.md** file with your favorite code editor and change the code to this:
 
-```jsx
-console.log("Greetings, World!");
+```md
+Hello world! Welcome to my awesome project! 
 ```
 
 Save the file changes, and commit those changes to your local repository using the following commands:
@@ -177,11 +180,16 @@ From [github.com](http://github.com), go to the **New repository** page: [https:
 
 Go through the same steps but specify a new repository name:
 
-> INSERT IMAGE 
+
+![Cloning a repo](img/creating-new-repo.png)
+
 
 To clone the repository, visit its page and select the green 'Clone or download' menu button, then click on the icon shown in the screenshot to copy the repository URL that we will need to use:
 
-> INSERT IMAGE 
+
+![Cloning an existing repo](img/cloning-existing-repo.png)
+
+
 Then, to clone the remote repository to your computer, execute the **git clone** command with the link that you just copied:
 
 ```bash
@@ -222,9 +230,8 @@ To push the **new-feature** branch to the **hello-world** remote repository on G
 ```bash
 git push origin new-feature
 ```
-If you refresh the **hello-world** GitHub repository page, you will see that there is a new branch pushed:
+If you refresh the **hello-world** GitHub repository page, you will see that there is a new branch pushed.
 
-> INSERT IMAGE 
 
 #### Creating a Pull Req 
 
@@ -234,19 +241,19 @@ The pull request will allow developers to review and verify the changes, before 
 
 To create a pull request, we need to press the following button (from the same interface shown in the last screenshot):
 
-> INSERT IMAGE 
+![Creating a pull req](img/pr-requests.png) 
 
 After that, we will be redirected to a page that allows us to open a pull request. There, we can specify the title of our pull request and leave a comment describing the changes we have made:
 
-> INSERT IMAGE 
+
+![Creating a pull req description](img/pull-request-description.png)
+
 
 To submit your pull request, click the green **'Create pull request'** button, as shown in the screenshot.
 
 After that is done, other collaborators can review the pull request, analyze the code changes directly, and add their comments about the pull request.
 
-When the changes from the request are reviewed by yourself (or other team members if you are not working alone) and they don't have any conflicts with the **master** base branch, then the pull request can be approved and merged:
-
-> INSERT IMAGE 
+When the changes from the request are reviewed by yourself (or other team members if you are not working alone) and they don't have any conflicts with the **master** base branch, then the pull request can be approved and merged.
 
 After you merge the pull request, it offers to delete the *new-feature* branch since the code is now added to the **master** branch.
 
@@ -288,12 +295,16 @@ There is a sample repository called *Spoon-Knife* hosted by GitHub, which they c
 
 We will be using this repository to test the **Fork** feature of GitHub. Go to the repository page by following the link above and click the '**Fork'** button, as shown in the screenshot below:
 
-> INSERT IMAGE 
+
+![Forking a repo](img/forking.png) 
+
 
 #### Working with a forked repo on your local machine 
 To clone the forked repository, visit its page from your GitHub profile and select the green 'Clone or download' menu button, then click on the icon shown in the screenshot to copy the repository URL that we will need to use:
 
-> INSERT IMAGE 
+
+![Opening the repo in local device](img/cloning-existing-repo.png)
+
 
 Then, to download the remote repository to your computer, execute the **git clone** command with the link that you just copied:
 
@@ -315,7 +326,9 @@ This can be done using a similar procedure that we went through in the last sect
 
 After pushing the changes that you made to your fork, you can create a **New pull request**: 
 
-> INSERT IMAGE 
+
+![Creating a pull request](img/pr-requests.png)
+
 
 That will lead you to the new pull request page where you can also add information about your changes.
 
