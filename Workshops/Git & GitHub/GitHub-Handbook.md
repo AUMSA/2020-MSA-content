@@ -22,6 +22,8 @@ To register a new account, visit [GitHub.com](http://github.com) and find the 'S
 
 Choose your new GitHub **username**, specify your existing **email** address (it's important to use your real email address because we will need to verify our account when we finalize the registration process) and the **password** of your choosing.
 
+![Github registration](img/github-register.png)
+
 After that, verify your account and you should be able to click the **'Create an account'** button at the bottom.
 
 - **Step 2: Choose your subscription**
@@ -67,18 +69,12 @@ After you run that command, you should get feedback that an empty Git repository
 
 - **Step 2: Adding a new file to our Git repository**
 
-Create a new file in your project folder, we will call our sample file `hello.js`
+Create a new file in your project folder, we will call our sample file `README.md`
 
 You can use the graphical interface of your operating system to create the file, or use the following terminal commands:
 
-> Windows Powershell: `ni hello.js`
->Bash (Mac/Linux) terminal: `touch hello.js`
-
-You can open the `hello.js` file with your text editor, and write the following JavaScript code which prints **Hello World!** to the console:
-
-```jsx
-console.log("Hello World!");
-```
+> Windows Powershell: `ni README.md`
+>Bash (Mac/Linux) terminal: `touch README.md`
 
 Save the file changes and then switch back to your terminal window.
 
@@ -98,7 +94,7 @@ Make sure to use the `git status` command frequently when working with Git. It's
 #### Creating a new GitHub Repository 
 To create a new GitHub repository, navigate to [github.com](http://github.com) and press the plus symbol in the top-right corner, then select the '**New repository**' option, as shown in the screenshot here:
 
-> INSERT IMAGE 
+![Creating a new github repo](img/creating-new-repo.png)
 
 You can also navigate to the GitHub page for creating new repositories by visiting this link: https://github.com/new
 
