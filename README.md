@@ -26,7 +26,7 @@ There are several bootcamps that will be run on Microsoft Teams.
 
 ### Supporting Workshops
 The MSA 2020 program will also host a series of complimenting workshops:
-1) Git & GitHub
+1) [Git & GitHub](https://github.com/AUMSA/2020-MSA-content/tree/master/Workshops/Git%20%26%20GitHub)
 2) DevOps and Project Workflow
 3) Presentation and Soft Skills
 
