@@ -1,4 +1,4 @@
-#Adding User to Workspace
+# Adding User to Workspace
 
 In this tutorial we will teach you how to add user to workspace.
 
