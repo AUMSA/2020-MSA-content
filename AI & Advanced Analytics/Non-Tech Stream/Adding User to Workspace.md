@@ -1,4 +1,5 @@
 #Adding User to Workspace
+
 In this tutorial we will teach you how to add user to workspace.
 
 1. Go to settings tab on your workspace
