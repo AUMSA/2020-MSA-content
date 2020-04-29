@@ -133,7 +133,9 @@ Review the submission guidelines again here:
 To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks: 
 **Project Submission Link:** https://aka.ms/MSAAusProjectSubmission
 
-Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything. If your repository is private please add the username: **msa-australia** as a collaborator.
+Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything. 
+> For *tech stream*, if your repository is private please add the username: **msa-australia** as a collaborator.
+> For *non-tech stream*, you would need to add user to your workspace. Click [here](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Non-Tech%20Stream/Adding%20User%20to%20Workspace.md) for the tutorial.
 
 ## 5. Deadline
 The assessment of this bootcamp is due by **28th June 2020**. Any submission after the deadline **will not** be accepted.
