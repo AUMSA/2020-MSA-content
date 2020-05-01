@@ -30,8 +30,10 @@ GitHub is like Robin to your Batman or Bonnie to your Clyde. Follow the guidelin
 
 ## How to make open source contributions
 
-The general method of contributing to open source contributions is to [fork the project](https://github.com/AUMSA/2020-MSA-content/blob/master/Workshops/Git%20&%20GitHub/GitHub-Handbook.md#forking-projects-on-github), [commit your changes](https://github.com/AUMSA/2020-MSA-content/blob/master/Workshops/Git%20%26%20GitHub/Git-handbook.md#staging--commiting) into your forked repo and then [open a pull-request](https://github.com/AUMSA/2020-MSA-content/blob/master/Workshops/Git%20&%20GitHub/GitHub-Handbook.md#creating-a-pull-req) of the developers to review. If you're familiar with any of the steps then click of the hyperlinks. 
+You don't always have to code to contribute to open source projects. Checkout the article below for more details. The general method of contributing to open source contributions is to [fork the project](https://github.com/AUMSA/2020-MSA-content/blob/master/Workshops/Git%20&%20GitHub/GitHub-Handbook.md#forking-projects-on-github), [commit your changes](https://github.com/AUMSA/2020-MSA-content/blob/master/Workshops/Git%20%26%20GitHub/Git-handbook.md#staging--commiting) into your forked repo and then [open a pull-request](https://github.com/AUMSA/2020-MSA-content/blob/master/Workshops/Git%20&%20GitHub/GitHub-Handbook.md#creating-a-pull-req) of the developers to review. If you're familiar with any of the steps then click of the hyperlinks. 
 
+Checkout the following article, it not only describes it further but also lists different ways to contribute to open source: https://opensource.guide/how-to-contribute/
+ 
 
 ## Activity 
 Done reading the guides and want to get your hands dirty. Here's a GitHub "Hello World" to start the magical world of GitHub
