@@ -7,10 +7,10 @@
 5. [Deadline](https://github.com/AUMSA/2020-MSA-content/tree/master/Cloud%20Computing%20with%20Azure#5-Deadline)
 
 ## 1. Introduction
-Welcome to the Microsoft Student Accelerator Australia 2020 bootcamp on Cloud Computing with Azure.
+Welcome to the Microsoft Student Accelerator Australia 2020 bootcamp on Cloud Computing with Azure. Cloud computing is a very useful technologies as it allows consumers and businesses to use applications without installation and access their personal files at any computer with internet access. If you never heard of Cloud Computing, click [here](https://github.com/AUMSA/2020-MSA-content/blob/master/Cloud%20Computing%20with%20Azure/An%20Introduction%20to%20Cloud%20Computing.md) for a brief introduction to Cloud Computing. This module will teach you the concepts behind Cloud Computing and how to implement it to increase productivity. We will teach you how to create a simple chatbot using the powerful Azure Cloud Services.
 
 ## 2. Resources
-More resources for this bootcamp will be uploaded soon
+- Explore the core concepts of cloud computing and how it can in business: https://docs.microsoft.com/en-au/learn/modules/principles-cloud-computing/ 
 
 ## 3. Assessment
 To complete *Cloud Computing with Azure* bootcamp, you are required to compete this assessment. More information will be uploaded soon.
