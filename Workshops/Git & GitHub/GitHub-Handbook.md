@@ -36,8 +36,7 @@ This is an optional step where you can share some information about yourself if 
 
 > Finally, you need to check the inbox of the email that you provided to **verify your email address** with GitHub.
 
-## Using GitHub 
-# 3. Using GitHub
+## Using GitHub
 
 **Common Workflow: Push an Existing Repo to Github**
 
