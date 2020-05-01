@@ -15,7 +15,9 @@ GitHub is a hosting platform for Git repositories. You can use Git on its own wi
 4. Often actively asked for in job descriptions & interviews. 
 5. Can be a free online backup for personal projects & work so mitigates the risk of losing them. 
 
-> If you're already familiar with Git, GitHub and want to get started with open source contributions straight away then feel free to skip to that section. 
+
+>> If you're already familiar with Git, GitHub and want to get started with open source contributions straight away then feel free to skip to that section. 
+
 
 ## Getting Started with Git 
 
