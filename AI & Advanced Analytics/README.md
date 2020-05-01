@@ -21,7 +21,7 @@ We have catered our program to code wizards to who want to get their hands dirty
 exploring many core concepts of Machine Learning through creating the program from scratch using Python and
 Azure Notebooks. Click [here](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics/Tech%20Stream/Setting%20up%20Azure%20Notebook) for tutorial on setting up Azure Notebook. (Please note you need to have an [Azure Student Subscription](https://github.com/AUMSA/2020-MSA-content/tree/master/Azure%20For%20Students) to access this.)
 
-**NOTE:** Due to COVID-19 related resource constraints many students are having issues with creating compute in Azure Machine Learning Studio. Students who are affected by this can do the coding portion/project in their local environment. Please read [local environment set-up guide](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Tech%20Stream/setting-up-local-environment.md) if you're unfamiliar.
+> **NOTE:** Due to COVID-19 related resource constraints many students are having issues with creating compute in Azure Machine Learning Studio. Students who are affected by this can do the coding portion/project in their local environment. Please read [local environment set-up guide](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Tech%20Stream/setting-up-local-environment.md) if you're unfamiliar.
 
 ## Bootcamp Slides
 1. [Slides for 13th April](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Non-Tech%20Stream/MSA-Bootcamp-13-April-Slides.pdf) - Low/No Code 
@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=uBYu_yrz_ZQ&list=PL8eNk_zTBST_WSR_KUBex8TDnQ21Ge
 
 - The MS learn video on Machine Learning is a good place to start. It'll give you a basic understanding of what Machine Learning is so you can understand the concepts discussed in this video a little better. We recommend reading through it beforehand. https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/
 
-**NOTE:** Due to COVID-19 related resource constraints many students are having issues with creating compute in Azure Machine Learning Studio. Students who are affected by this can do the coding portion/project in their local environment. Please read [local environment set-up guide](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Tech%20Stream/setting-up-local-environment.md) if you're unfamiliar. 
+> **NOTE:** Due to COVID-19 related resource constraints many students are having issues with creating compute in Azure Machine Learning Studio. Students who are affected by this can do the coding portion/project in their local environment. Please read [local environment set-up guide](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Tech%20Stream/setting-up-local-environment.md) if you're unfamiliar. 
 #### Extra Resources
 - General Data Analysis information: https://github.com/wesm/pydata-book
 - This Pandas cheat sheet is good to have by: https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
