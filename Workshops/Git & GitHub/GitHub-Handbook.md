@@ -116,7 +116,7 @@ If you wanted, you could initialize the repository with a **README** file, which
 #### Pushing code to the GitHub repo 
 After the last step, you will be forwarded to the starting page of your new GitHub repository that looks like this:
 
-![Quick setup screen](img/quick-setu-screen.png)
+![Quick setup screen](img/quick-setup-screen.png)
 
 
 Since we've already created our Git repo locally, we can focus on the **`…or push an existing repository from the command line`** section of the page.
