@@ -36,16 +36,16 @@ An Azure subscription. If you don't have an Azure subscription, [create a free a
 
     ![img06a](img/img06a.png)
  
-        - In the New App Service plan panel, enter a name for the new service plan.
+    - In the New App Service plan panel, enter a name for the new service plan.
         ![img06b](img/img06b.png)
 
-        - For Location, pick Central US to make sure we pick a region that allows the service plan you will pick. Normally, you would pick the region that is closest to your customers while offering the services you need.
+    - For Location, pick Central US to make sure we pick a region that allows the service plan you will pick. Normally, you would pick the region that is closest to your customers while offering the services you need.
 
-        - Select Pricing tier to see the performance and feature options of the various types of service plans. Select the Dev / Test tab and select the F1 pricing tier. Then select Apply.
+    - Select Pricing tier to see the performance and feature options of the various types of service plans. Select the Dev / Test tab and select the F1 pricing tier. Then select Apply.
 
     ![img06b](img/img06b.png)
 
-        - Your fields will look like this
+    - Your fields will look like this
 
     ![img06c](img/img06c.png)
 
