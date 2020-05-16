@@ -16,6 +16,12 @@ Just like the previous bootcamp, you don't have to worry if you have no coding b
 
 ## 2. Resources
 - Interested in the cloud, but aren't quite sure what it can do for you? This path is the place to start.: https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/
+- How to create and deploy a cloud service?: https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-how-to-create-deploy-portal/
+- How do I choose a cloud service provider?: https://azure.microsoft.com/en-us/overview/choosing-a-cloud-service-provider/
+- Azure Cloud Services documentation: https://docs.microsoft.com/en-us/azure/cloud-services/
+
+### Extra Resources
+- How does Microsoft Azure work?: https://www.youtube.com/watch?v=KXkBZCe699A
 
 ## 3. Assessment
 To complete *Cloud Computing with Azure* bootcamp, you are required to compete this assessment. More information will be uploaded soon.
