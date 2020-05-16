@@ -20,7 +20,7 @@ Just like the previous bootcamp, you don't have to worry if you have no coding b
 - How do I choose a cloud service provider?: https://azure.microsoft.com/en-us/overview/choosing-a-cloud-service-provider/
 - Azure Cloud Services documentation: https://docs.microsoft.com/en-us/azure/cloud-services/
 
-### Extra Resources
+#### Extra Resources
 - How does Microsoft Azure work?: https://www.youtube.com/watch?v=KXkBZCe699A
 
 ## 3. Assessment
