@@ -25,9 +25,8 @@ We have for the technical approach. We wouldn't just be exploring cloud computin
 - [MS Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) 
 
 **Additional resources** 
-Microsoft Azure [YouTube channel](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA) has some great videos.
-
-You can also learn how to add your own custom domain name (i.e.- www.youraddress.com) to your website in the [Host your domain on Azure DNS](https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/) module however for the bootcamp we recommend using the default azure domain.
+- Microsoft Azure [YouTube channel](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA) has some great videos.
+-You can also learn how to add your own custom domain name (i.e.- www.youraddress.com) to your website in the [Host your domain on Azure DNS](https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/) module however for the bootcamp we recommend using the default azure domain.
 You are welcome to the web and explore any other resources you find interesting.  
 
 #### Coding Approach
@@ -35,7 +34,7 @@ You are welcome to the web and explore any other resources you find interesting.
 - [Azure IoT Learning Path](https://docs.microsoft.com/en-us/learn/paths/introduction-to-azure-iot/)
 - [Power BI learning Path](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/)
 
-*Additional resources*
+**Additional resources**
 Microsoft Azure [YouTube channel](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA) has some great videos. Specially checkout the IoT and 'How To' playlist. 
 You are welcome to the web and explore any other resources you find interesting. 
 
@@ -44,22 +43,22 @@ You are welcome to the web and explore any other resources you find interesting.
 To complete *Cloud Computing with Azure* bootcamp, you are required to compete these tasks. Please refer to stream specific guidelines below. 
 
 #### Low/No code Approach
-*Microsoft Learn*
+**Microsoft Learn**
 - [Azure IoT Learning Path](https://docs.microsoft.com/en-us/learn/paths/introduction-to-azure-iot/) - 10 Points
 - [Power BI learning Path](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/) - 10 Points  
 
-*Project* 
+**Project** 
 - Build your own resume/blog website - 90 Points
 Please view the demo project guide and bootcamp to learn more on how to get started. 
 
 > Insert Project specs here 
 
 #### Coding Approach
-*Microsoft Learn*
+**Microsoft Learn**
 - [MS Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) - 15 Points 
 - [Power BI learning Path](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/) - 10 Points 
 
-*Project* 
+**Project** 
 - Create your own solution using IoT hub and visualise data using Power BI - 75 Points 
 
 > Insert Project specs here 
