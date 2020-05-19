@@ -1,37 +1,81 @@
 # MSA 2020 - Cloud Computing with Azure
 ## Table of Contents
-1. [Introduction](https://github.com/AUMSA/2020-MSA-content/tree/master/Cloud%20Computing%20with%20Azure#1-Introduction)
-2. [Resources](https://github.com/AUMSA/2020-MSA-content/tree/master/Cloud%20Computing%20with%20Azure#2-Resources)
-3. [Assessment](https://github.com/AUMSA/2020-MSA-content/tree/master/Cloud%20Computing%20with%20Azure#3-Assessment)
-4. [Submission](https://github.com/AUMSA/2020-MSA-content/tree/master/Cloud%20Computing%20with%20Azure#4-Submission)
-5. [Deadline](https://github.com/AUMSA/2020-MSA-content/tree/master/Cloud%20Computing%20with%20Azure#5-Deadline)
+
+1. [Introduction](#1-Introduction)
+2. [Resources](#2-Resources)
+3. [Assessment](#3-Assessment)
+4. [Submission](#4-Submission)
+5. [Deadline](#5-Deadline)
 
 ## 1. Introduction
-Welcome to the Microsoft Student Accelerator Australia 2020 bootcamp on Cloud Computing with Azure. Cloud computing is a very useful technologies as it allows consumers and businesses to use applications without installation and access their personal files at any computer with internet access. If you never heard of Cloud Computing, click [here](https://github.com/AUMSA/2020-MSA-content/blob/master/Cloud%20Computing%20with%20Azure/An%20Introduction%20to%20Cloud%20Computing.md) for a brief introduction to Cloud Computing. This module will teach you the concepts behind Cloud Computing and how to implement it to increase productivity. We will teach you how to create a simple chatbot using the powerful Azure Cloud Services.
+Welcome to the Microsoft Student Accelerator Australia 2020 bootcamp on Cloud Computing with Azure. Cloud computing is one of the most common buzzwords out there and as student we often don't get the chance harness the true potential of cloud. So, through this bootcamp we aim to give some hands-on experience with cloud comptuing using azure to not only understand what it is but also how you can push your career forward using it. If you never heard of Cloud Computing, click [here](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/) for a brief introduction to Cloud Computing.
 
-### Low/No code Approach
-Just like the previous bootcamp, you don't have to worry if you have no coding background. We will be using Azure Marketplace and sandboxes (to give you access to Azure resources) to create and configure a website. Azure Marketplace is an online store that provides many types of applications are available, ranging from AI + Machine Learning to Web applications. We're going to use one of the WordPress application options from the Azure Marketplace for our website.
 
-### Coding Approach
+#### Low/No code Approach
+If you have always thought about having your resume or blog website, then we have some exciting news for you. In this bootcamp we will learn to create, configure and deploy your very own resume/blog website using Azure. We will also explore we can customize and optimise our website to stand out from the crowd. And, yes all this without having to write a single line of code. 
+
+#### Coding Approach
+We have for the technical approach. We wouldn't just be exploring cloud computing, we would also going to learning about another amazing technology (and a buzzword) IoT. In this bootcamp by creating our IoT solution, we would be learning how cloud computing and IoT can be utilised together to create solutions to some of the most challenging problems of our current world. 
 
 ## 2. Resources
-- Interested in the cloud, but aren't quite sure what it can do for you? This path is the place to start.: https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/
-- How to create and deploy a cloud service?: https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-how-to-create-deploy-portal/
-- How do I choose a cloud service provider?: https://azure.microsoft.com/en-us/overview/choosing-a-cloud-service-provider/
-- Azure Cloud Services documentation: https://docs.microsoft.com/en-us/azure/cloud-services/
 
-#### Extra Resources
-- How does Microsoft Azure work?: https://www.youtube.com/watch?v=KXkBZCe699A
+#### Low/No code Approach
+
+**Main resource** 
+- [MS Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) 
+
+**Additional resources** 
+Microsoft Azure [YouTube channel](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA) has some great videos.
+
+You can also learn how to add your own custom domain name (i.e.- www.youraddress.com) to your website in the [Host your domain on Azure DNS](https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/) module however for the bootcamp we recommend using the default azure domain.
+You are welcome to the web and explore any other resources you find interesting.  
+
+#### Coding Approach
+**Main resource** 
+- [Azure IoT Learning Path](https://docs.microsoft.com/en-us/learn/paths/introduction-to-azure-iot/)
+- [Power BI learning Path](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/)
+
+*Additional resources*
+Microsoft Azure [YouTube channel](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA) has some great videos. Specially checkout the IoT and 'How To' playlist. 
+You are welcome to the web and explore any other resources you find interesting. 
+
 
 ## 3. Assessment
-To complete *Cloud Computing with Azure* bootcamp, you are required to compete this assessment. More information will be uploaded soon.
+To complete *Cloud Computing with Azure* bootcamp, you are required to compete these tasks. Please refer to stream specific guidelines below. 
+
+#### Low/No code Approach
+*Microsoft Learn*
+- [Azure IoT Learning Path](https://docs.microsoft.com/en-us/learn/paths/introduction-to-azure-iot/) - 10 Points
+- [Power BI learning Path](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/) - 10 Points  
+
+*Project* 
+- Build your own resume/blog website - 90 Points
+Please view the demo project guide and bootcamp to learn more on how to get started. 
+
+> Insert Project specs here 
+
+#### Coding Approach
+*Microsoft Learn*
+- [MS Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) - 15 Points 
+- [Power BI learning Path](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/) - 10 Points 
+
+*Project* 
+- Create your own solution using IoT hub and visualise data using Power BI - 75 Points 
+
+> Insert Project specs here 
 
 ## 4. Submission
+
+#### Low/No code Approach
 Review the submission guidelines again here: 
-- [Project Submission Guidelines](https://stdntpartners-my.sharepoint.com/:w:/g/personal/kaif_ahsan_studentpartner_com/EaMdIgV5WvhIlX1zWslTnesBhuRgZ9eAT39ISCr8GRePyg?e=v8uteh)
+> Insert submission guidelines here 
+
+#### Coding Approach
+> Insert submission guidelines here 
 
 To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks: 
-**Project Submission Link:** https://aka.ms/MSAAusProjectSubmission
+> **Project Submission Link:** https://aka.ms/MSAAusProjectSubmission
+
 
 Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything. 
 > For *tech stream*, if your repository is private please add the username: **msa-australia** as a collaborator.
@@ -39,4 +83,4 @@ Please read through the criteria on the respective GitHub documentation prior to
 > For *non-tech stream*, you would need to add user to your workspace. Click [here](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Non-Tech%20Stream/Adding%20User%20to%20Workspace.md) for the tutorial.
 
 ## 5. Deadline
-The deadline for this bootcamp is on [deadline]
+The deadline for this bootcamp is on **20th July, 2020**
