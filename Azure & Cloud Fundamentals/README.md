@@ -70,10 +70,14 @@ Check out this this [step-by-step guide](https://1drv.ms/w/s!ArEj5-yGzsb8iqUCi4e
 Review the submission guidelines again here: 
 - [Submission Guidelines](https://1drv.ms/w/s!ArEj5-yGzsb8iqR-Kz5hEHfzXuTBbA?e=rvwXjJ)
 
+> **Project Submission Link:** https://aka.ms/MSAAusProjectSubmission
+
 #### Coding Approach
 > Insert submission guidelines here 
 
 To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks: 
+
+
 > **Project Submission Link:** https://aka.ms/MSAAusProjectSubmission
 
 
