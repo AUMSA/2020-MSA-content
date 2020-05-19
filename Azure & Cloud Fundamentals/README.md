@@ -26,7 +26,8 @@ We have for the technical approach. We wouldn't just be exploring cloud computin
 
 **Additional resources** 
 - Microsoft Azure [YouTube channel](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA) has some great videos.
--You can also learn how to add your own custom domain name (i.e.- www.youraddress.com) to your website in the [Host your domain on Azure DNS](https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/) module however for the bootcamp we recommend using the default azure domain.
+- You can also learn how to add your own custom domain name (i.e.- www.youraddress.com) to your website in the [Host your domain on Azure DNS](https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/) module. However for the bootcamp we recommend using the default azure domain.
+
 You are welcome to the web and explore any other resources you find interesting.  
 
 #### Coding Approach
