@@ -44,8 +44,7 @@ To complete *Cloud Computing with Azure* bootcamp, you are required to compete t
 
 #### Low/No code Approach
 **Microsoft Learn**
-- [Azure IoT Learning Path](https://docs.microsoft.com/en-us/learn/paths/introduction-to-azure-iot/) - 10 Points
-- [Power BI learning Path](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/) - 10 Points  
+- [MS Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) - 10 Points
 
 **Project** 
 - Build your own resume/blog website - 90 Points
