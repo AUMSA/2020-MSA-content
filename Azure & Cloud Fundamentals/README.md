@@ -49,8 +49,8 @@ To complete *Cloud Computing with Azure* bootcamp, you are required to compete t
 
 **Project** 
 - Build your own resume/blog website - 90 Points
-[Project Specifications](https://1drv.ms/w/s!ArEj5-yGzsb8iqUAyZY8gS4ROr-uJw?e=PWqtcu)
-[Marking Rubric](https://1drv.ms/w/s!ArEj5-yGzsb8iqRJ77I7nyXxn6a0EQ?e=XzHlsd)
+- [Project Specifications](https://1drv.ms/w/s!ArEj5-yGzsb8iqUAyZY8gS4ROr-uJw?e=PWqtcu)
+- [Marking Rubric](https://1drv.ms/w/s!ArEj5-yGzsb8iqRJ77I7nyXxn6a0EQ?e=XzHlsd)
 
 Check out this this [step-by-step guide](https://1drv.ms/w/s!ArEj5-yGzsb8iqUCi4eKI4MnIwLNfg?e=xA9VWz) to get started with with the project. This would guide you through setting up Azure and creating the web app. 
 
@@ -61,7 +61,7 @@ Check out this this [step-by-step guide](https://1drv.ms/w/s!ArEj5-yGzsb8iqUCi4e
 
 **Project** 
 - Create your own solution using IoT hub and visualise data using Power BI - 75 Points 
-[Marking Rubric](https://1drv.ms/w/s!AvIx2ypSd5N7rg0Juxpnv7vCHvrC?e=qj08vh)
+- [Marking Rubric](https://1drv.ms/w/s!AvIx2ypSd5N7rg0Juxpnv7vCHvrC?e=qj08vh)
 
 ## 4. Submission
 
@@ -80,7 +80,7 @@ To submit your work please fill in the submission form below. This will require 
 > **Project Submission Link:** https://aka.ms/MSAAusProjectSubmission
 
 
-Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything. 
+Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything.  
 
 ## 5. Deadline
 The deadline for this bootcamp is on **20th July, 2020**
