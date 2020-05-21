@@ -61,8 +61,7 @@ Check out this this [step-by-step guide](https://1drv.ms/w/s!ArEj5-yGzsb8iqUCi4e
 
 **Project** 
 - Create your own solution using IoT hub and visualise data using Power BI - 75 Points 
-
-> Insert Project specs here 
+[Marking Rubric](https://1drv.ms/w/s!AvIx2ypSd5N7rg0Juxpnv7vCHvrC?e=qj08vh)
 
 ## 4. Submission
 
