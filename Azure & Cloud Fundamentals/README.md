@@ -54,7 +54,7 @@ To complete *Cloud Computing with Azure* bootcamp, you are required to compete t
 
 Check out this this [step-by-step guide](https://1drv.ms/w/s!ArEj5-yGzsb8iqUCi4eKI4MnIwLNfg?e=xA9VWz) to get started with with the project. This would guide you through setting up Azure and creating the web app. 
 
-#### Coding Approachs
+#### Coding Approach
 **Microsoft Learn**
 - [MS Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) - 15 Points 
 - [Power BI learning Path](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/) - 10 Points 
