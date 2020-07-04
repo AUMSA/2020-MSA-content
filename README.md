@@ -5,7 +5,7 @@
 
 MSA Australia 2020 will cover 3 main topics: 
 1) [AI & Advanced Analytics](https://github.com/AUMSA/2020-MSA-content/tree/master/AI%20%26%20Advanced%20Analytics)
-2) [Cloud Computing with Azure](2020-MSA-content/Azure & Cloud Fundamentals/)
+2) [Cloud Computing with Azure](https://github.com/AUMSA/2020-MSA-content/tree/master/Azure%20%26%20Cloud%20Fundamentals)
 3) [Web App & APIs](https://github.com/AUMSA/2020-MSA-content/tree/master/Web%20App%20%26%20APIs)
   
 There would be one project for each topic. The detail of each project would be announced shortly in the respective GitHub Documentation.
