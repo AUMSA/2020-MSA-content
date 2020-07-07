@@ -56,8 +56,10 @@ Check out this this [step-by-step guide](https://1drv.ms/w/s!ArEj5-yGzsb8iqUCi4e
 
 #### Coding Approach
 **Microsoft Learn**
-- [MS Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) - 15 Points 
+
+- [Azure IoT Learning Path](https://docs.microsoft.com/en-us/learn/paths/introduction-to-azure-iot/)** - 15 Points 
 - [Power BI learning Path](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/) - 10 Points 
+** If you have already done [MS Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) then you would still get 15 points. However we recommend Azure IoT path. 
 
 **Project** 
 - Create your own solution using IoT hub and visualise data using Power BI - 75 Points 
