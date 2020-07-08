@@ -8,18 +8,18 @@
 5. [Deadline](#5-Deadline)
 
 ## 1. Introduction
-Welcome to the Microsoft Student Accelerator Australia 2020 bootcamp on Cloud Computing with Azure. Cloud computing is one of the most common buzzwords out there and as student we often don't get the chance harness the true potential of cloud. So, through this bootcamp we aim to give some hands-on experience with cloud comptuing using azure to not only understand what it is but also how you can push your career forward using it. If you never heard of Cloud Computing, click [here](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/) for a brief introduction to Cloud Computing.
+Welcome to the Microsoft Student Accelerator Australia 2020 bootcamp on Cloud Computing with Azure. Cloud Computing is one of the most commonly used buzzwords, and as a student, we usually don't get many chances to harness the true potential of Cloud. So through this bootcamp, we aim to provide some opportunities for hands-on experience with Cloud Computing using Microsoft Azure - so that you are able to understand what Cloud Computing is and how it can accelerate your career. If you have never heard of Cloud, you can [read through the Microsoft Learn module](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/) for a brief introduction to Cloud Computing.
 
 
-#### Low/No code Approach
-If you have always thought about having your resume or blog website, then we have some exciting news for you. In this bootcamp we will learn to create, configure and deploy your very own resume/blog website using Azure. We will also explore we can customize and optimise our website to stand out from the crowd. And, yes all this without having to write a single line of code. 
+### Low/No code Approach
+If you have always create your online portfolio, blog or website, then we have some exciting news for you! In this bootcamp, we will learn to create, configure and deploy your very own online resume/blog using Azure. We will also explore how you can customise your website and optimise it to stand out from the crowd. And yes, this can all be done without having to write a single line of code!
 
-#### Coding Approach
-We have for the technical approach. We wouldn't just be exploring cloud computing, we would also going to learning about another amazing technology (and a buzzword) IoT. In this bootcamp by creating our IoT solution, we would be learning how cloud computing and IoT can be utilised together to create solutions to some of the most challenging problems of our current world. 
+### Coding Approach
+For those who are more technical, we will go beyond Cloud Computing and also learn IoT, another popular technology. In this bootcamp, you will create your very own IoT solution by utilising knowledge on how Cloud and IoT work together to create solutions to address many of the most challenging problems of the modern world. 
 
 ## 2. Resources
 
-#### Low/No code Approach
+### Low/No code Approach
 
 **Main resource** 
 - [MS Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) 
@@ -30,20 +30,20 @@ We have for the technical approach. We wouldn't just be exploring cloud computin
 
 You are welcome to the web and explore any other resources you find interesting.  
 
-#### Coding Approach
+### Coding Approach
 **Main resource** 
 - [Azure IoT Learning Path](https://docs.microsoft.com/en-us/learn/paths/introduction-to-azure-iot/)
 - [Power BI learning Path](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/)
 
 **Additional resources**
-Microsoft Azure [YouTube channel](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA) has some great videos. Specially checkout the IoT and 'How To' playlist. 
-You are welcome to the web and explore any other resources you find interesting. 
+The Microsoft Azure [YouTube channel](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA) has some great videos. Specifically, we recommend checking out the [IoT playlist](https://www.youtube.com/playlist?list=PLLasX02E8BPCIPSINRAaEo3iOa8pcYX3o) and [How To playlist](https://www.youtube.com/c/MicrosoftAzure/search?query=how+to). 
+You are also welcome to use the Internet to explore any other resources you may find interesting. 
 
 
 ## 3. Assessment
-To complete *Cloud Computing with Azure* bootcamp, you are required to compete these tasks. Please refer to stream specific guidelines below. 
+To complete the *Cloud Computing with Azure* bootcamp, you are required to compete the following tasks (refer to stream specific guidelines below).
 
-#### Low/No code Approach
+### Low/No code Approach
 **Microsoft Learn**
 - [MS Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) - 10 Points
 
@@ -54,14 +54,14 @@ To complete *Cloud Computing with Azure* bootcamp, you are required to compete t
 
 Check out this this [step-by-step guide](https://1drv.ms/w/s!ArEj5-yGzsb8iqUCi4eKI4MnIwLNfg?e=xA9VWz) to get started with with the project. This would guide you through setting up Azure and creating the web app. 
 
-#### Coding Approach
+### Coding Approach
 **Microsoft Learn**
 
 - [Azure IoT Learning Path](https://docs.microsoft.com/en-us/learn/paths/introduction-to-azure-iot/)** - 15 Points 
 - [Power BI learning Path](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/) - 10 Points 
 
 
-** If you have already done [MS Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) then you would still get 15 points as there was a mistake in the document. We wouldn't penalize you for not doing the Azure Iot Learning Path. However we recommend doing it. 
+** If you have already done [MS Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/), then you will still get 15 points as there was a mistake in the document provided. We won't penalize you for having not completed the [Azure IoT Learning Path](https://docs.microsoft.com/en-us/learn/paths/introduction-to-azure-iot/), however we highly recommend doing it.
 
 **Project** 
 - Create your own solution using IoT hub and visualise data using Power BI - 75 Points 
@@ -69,13 +69,13 @@ Check out this this [step-by-step guide](https://1drv.ms/w/s!ArEj5-yGzsb8iqUCi4e
 
 ## 4. Submission
 
-#### Low/No code Approach
+### Low/No code Approach
 Review the submission guidelines again here: 
 - [Submission Guidelines](https://1drv.ms/w/s!ArEj5-yGzsb8iqR-Kz5hEHfzXuTBbA?e=rvwXjJ)
 
 > **Project Submission Link:** https://aka.ms/MSAAusProjectSubmission
 
-#### Coding Approach
+### Coding Approach
 > Insert submission guidelines here 
 
 To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks: 
