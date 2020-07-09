@@ -8,6 +8,9 @@
 5. [Deadline](#5-Deadline)
 
 ## 1. Introduction
+
+- [Lecture Slides](https://stdntpartners-my.sharepoint.com/:p:/g/personal/kaif_ahsan_studentpartner_com/Ec67a5-kyd5AnUjKqHAYvYsBA-_7oSQP4WA6sVyz2SxSmA?e=JbmDFl)
+
 Welcome to the Microsoft Student Accelerator Australia 2020 bootcamp on Cloud Computing with Azure. Cloud computing is one of the most common buzzwords out there and as student we often don't get the chance harness the true potential of cloud. So, through this bootcamp we aim to give some hands-on experience with cloud comptuing using azure to not only understand what it is but also how you can push your career forward using it. If you never heard of Cloud Computing, click [here](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/) for a brief introduction to Cloud Computing.
 
 
