@@ -73,6 +73,7 @@ Check out this this [step-by-step guide](https://1drv.ms/w/s!ArEj5-yGzsb8iqUCi4e
 Here are some useful documents that can help you get stared with your project: 
 - [Sending Telemetry Data to Azure IoT using Python](https://docs.microsoft.com/en-us/azure/iot-hub/quickstart-send-telemetry-python)
 - [Visualizing sensor data using PowerBI](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-live-data-visualization-in-power-bi)
+- [Raspberry Pi Azure IoT Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/)
 
 The left navigation bar of each of these links have a plethora of useful documents which you can use educate yourself. 
 
