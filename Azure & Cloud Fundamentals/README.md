@@ -70,6 +70,12 @@ Check out this this [step-by-step guide](https://1drv.ms/w/s!ArEj5-yGzsb8iqUCi4e
 - Create your own solution using IoT hub and visualise data using Power BI - 75 Points 
 - [Marking Rubric](https://1drv.ms/w/s!AvIx2ypSd5N7rg0Juxpnv7vCHvrC?e=qj08vh)
 
+Here are some useful documents that can help you get stared with your project: 
+- [Sending Telemetry Data to Azure IoT using Python](https://docs.microsoft.com/en-us/azure/iot-hub/quickstart-send-telemetry-python)
+- [Visualizing sensor data using PowerBI](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-live-data-visualization-in-power-bi)
+
+The left navigation bar of each of these links have a plethora of useful documents which you can use educate yourself. 
+
 ## 4. Submission
 
 #### Low/No code Approach
