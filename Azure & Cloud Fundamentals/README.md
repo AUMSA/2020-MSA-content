@@ -79,7 +79,7 @@ Review the submission guidelines again here:
 > **Project Submission Link:** https://aka.ms/MSAAusProjectSubmission
 
 #### Coding Approach
-> Insert submission guidelines here 
+> ** [Project submission guidelines](https://stdntpartners-my.sharepoint.com/:w:/g/personal/kaif_ahsan_studentpartner_com/EWGncVP9q3BLsOfWjdRsKKgBfAWFU2fQaVHUEswPwfJDEA?e=Z5QcOM) 
 
 To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks: 
 
