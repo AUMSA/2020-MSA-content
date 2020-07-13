@@ -83,15 +83,14 @@ The left navigation bar of each of these links have a plethora of useful documen
 Review the submission guidelines again here: 
 - [Submission Guidelines](https://1drv.ms/w/s!ArEj5-yGzsb8iqR-Kz5hEHfzXuTBbA?e=rvwXjJ)
 
-> **Project Submission Link:** https://aka.ms/MSAAusProjectSubmission
+> **Project Submission Link:** Under maintenance
 
 #### Coding Approach
-> ** [Project submission guidelines](https://stdntpartners-my.sharepoint.com/:w:/g/personal/kaif_ahsan_studentpartner_com/EWGncVP9q3BLsOfWjdRsKKgBfAWFU2fQaVHUEswPwfJDEA?e=Z5QcOM) 
+> [Project submission guidelines](https://stdntpartners-my.sharepoint.com/:w:/g/personal/kaif_ahsan_studentpartner_com/EWGncVP9q3BLsOfWjdRsKKgBfAWFU2fQaVHUEswPwfJDEA?e=Z5QcOM) 
 
 To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks: 
 
-
-> **Project Submission Link:** https://aka.ms/MSAAusProjectSubmission
+> **Project Submission Link:** Under maintenance
 
 
 Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything.  
