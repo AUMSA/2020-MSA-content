@@ -96,4 +96,7 @@ To submit your work please fill in the submission form below. This will require 
 Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything.  
 
 ## 5. Deadline
-The deadline for this bootcamp is on **20th July, 2020**
+The deadline for this bootcamp is on **26th July, 2020, 11:59pm AEDT**
+
+#### Late Submissions 
+For this bootcamp late submissions upto **28th July 2020, 11:59pm AEDT** is allowed. However there will be a **20%** penalty on the total grade.  
