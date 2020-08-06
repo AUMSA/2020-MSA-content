@@ -26,10 +26,13 @@ Further, we will also see, how we can deploy our web service with a web hosting 
 ## 2. Resources
 
 #### Low/No code Approach
+- [Creating A Canvas Power App](https://docs.microsoft.com/en-us/learn/paths/create-powerapps/)
+- [Microsoft PowerApps Documentation](https://docs.microsoft.com/en-us/powerapps/)
+- [Examples of Power Apps](https://powerusers.microsoft.com/t5/Community-App-Samples/bd-p/AppFeedbackGallery?sortby=kudos)
 
-**Main resource** 
+External Resources:
+- https://www.avepoint.com/blog/office-365/microsoft-powerapps/
 
-**Additional resources** 
 
 #### Coding Approach
 - [Creating a To-do App using Flask](https://github.com/JerryyZhu/todo_markdown)
@@ -39,6 +42,7 @@ Further, we will also see, how we can deploy our web service with a web hosting 
 
 Additional Resources: 
 - [Official Flask documentation](https://flask.palletsprojects.com/en/1.1.x/tutorial/#tutorial)
+
 
 ## 3. Assessment
 To complete *Web App & APIs* bootcamp, you are required to compete these tasks. Please refer to stream specific guidelines below. 
