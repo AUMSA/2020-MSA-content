@@ -8,15 +8,20 @@
 5. [Deadline](#5-Deadline)
 
 ## 1. Introduction
+Welcome to the third and final bootcamp of the 2020 MSA program. We would like to wrap bootcamps up by giving you a taste building an interactive application which solves a particular problem or fulfills a need. In our tech career, it is a quite a handy skill to know how to materialize an idea into a real application. 
 
 - [Lecture Slides]
-
-Welcome to the Microsoft Student Accelerator Australia 2020 bootcamp on Web App & APIs.
-
+- [Lecture Slides]
 
 #### Low/No code Approach
+In the non-technical stream, we will be getting introduced to the Power Platform to create our professional apps without writing a single line of code. The Power Platform feature rich, versatile and easy to get started with. 
+
+A crucial part of this project is not just create an up, but also understand for whom and why are we creating the application for. To achieve this we will be exploring a concept called 'Building a Persona'. This is a very important skill and a useful step to plan and design our software in the real life. 
 
 #### Coding Approach
+In the technical stream, we will be learning not only how to create our interactive web apps, but also how to implement third party services through APIs as well as how to share our awesome work with the world through hosting it. To achieve this, we will be using HTML, Bootstrap & Flask to create our web application. 
+
+Further, we will also see, how we can deploy our web service with a web hosting provider such as Azure for testing and sharing with the public through a URL. Participants are free to choose from Either HTML, CSS and JavaScript or HTML, Bootstrap and Flask to develop their application. 
 
 ## 2. Resources
 
