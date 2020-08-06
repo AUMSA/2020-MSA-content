@@ -41,6 +41,7 @@ External Resources:
 - [Deploying a Flask app to Azure](https://www.youtube.com/watch?v=K_RTlbOOCts)
 
 Additional Resources: 
+- [Setting up Flask for VS Code](https://code.visualstudio.com/docs/python/tutorial-flask)
 - [Official Flask documentation](https://flask.palletsprojects.com/en/1.1.x/tutorial/#tutorial)
 
 
@@ -48,14 +49,19 @@ Additional Resources:
 To complete *Web App & APIs* bootcamp, you are required to compete these tasks. Please refer to stream specific guidelines below. 
 
 #### Low/No code Approach
-**Microsoft Learn**
+**Microsoft Learn** - 25
+- [Creating a canvas app](https://docs.microsoft.com/en-us/learn/paths/create-powerapps/) 
+- [Use UI and Controls in canvas app](https://docs.microsoft.com/en-us/learn/paths/ui-controls-canvas-app-powerapps/)
 
-**Project** 
+**Project** - 75
+- [Project specification & marking rubric]()
+- [Project Submission Guide]()
 
 #### Coding Approach
-**Microsoft Learn**
+**Microsoft Learn** - 10 Marks
+- [AI Web App using Python & Flask](https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/) 
 
-**Project** 
+**Project** - 90 Marks 
 
 ## 4. Submission
 
@@ -66,13 +72,12 @@ Review the submission guidelines again here:
 > **Project Submission Link: ** https://aka.ms/MSAAusProjectSubmission
 
 #### Coding Approach
-> [Project submission guidelines]
-To submit your work please fill in the submission form below. This will require you to submit GitHub links and screenshots of your completed tasks: 
+Review the submission guidelines again here: 
+- [Project submission guidelines]
 
 > **Project Submission Link: ** https://aka.ms/MSAAusProjectSubmission
 
-
-Please read through the criteria on the respective GitHub documentation prior to submitting to ensure you have covered off everything.  
+Please read through the submission guidelines and ensured all criteria are met. 
 
 ## 5. Deadline
 The deadline for this bootcamp is **TBA**
