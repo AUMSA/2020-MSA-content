@@ -35,7 +35,7 @@ External Resources:
 
 
 ### Coding Approach
-- [Creating a To-do App using Flask](https://github.com/JerryyZhu/todo_markdown)
+- [Creating a To-do App using Flask](https://github.com/JerryyZhu/todo_markdown) (Bootcamp Demo)
 - [AI web app by using Python and Flask](https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/)
 - [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Deploying a Flask app to Azure](https://www.youtube.com/watch?v=K_RTlbOOCts)
