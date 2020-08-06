@@ -82,7 +82,7 @@ Review the submission guidelines again here:
 Please read through the submission guidelines and ensured all criteria are met. 
 
 ## 5. Deadline
-The deadline for this bootcamp is **14th September, 2020. 11:59pm**
+The deadline for this bootcamp is **11:59pm AEDT, 14th September, 2020.**
 
 #### Late Submissions 
-For this bootcamp late submissions up to **16th September, 2020. 11:59pm** is allowed. However there will be a **20%** penalty on the total grade.  
+For this bootcamp late submissions up to **11:59pm AEDT, 16th September, 2020. 11:59pm** is allowed. However there will be a **20%** penalty on the total grade.  
