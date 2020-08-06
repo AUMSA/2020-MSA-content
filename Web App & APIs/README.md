@@ -25,7 +25,7 @@ Further, we will also see, how we can deploy our web service with a web hosting 
 
 ## 2. Resources
 
-#### Low/No code Approach
+### Low/No code Approach
 - [Creating A Canvas Power App](https://docs.microsoft.com/en-us/learn/paths/create-powerapps/)
 - [Microsoft PowerApps Documentation](https://docs.microsoft.com/en-us/powerapps/)
 - [Examples of Power Apps](https://powerusers.microsoft.com/t5/Community-App-Samples/bd-p/AppFeedbackGallery?sortby=kudos)
@@ -34,7 +34,7 @@ External Resources:
 - https://www.avepoint.com/blog/office-365/microsoft-powerapps/
 
 
-#### Coding Approach
+### Coding Approach
 - [Creating a To-do App using Flask](https://github.com/JerryyZhu/todo_markdown)
 - [AI web app by using Python and Flask](https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/)
 - [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
@@ -48,7 +48,7 @@ Additional Resources:
 ## 3. Assessment
 To complete *Web App & APIs* bootcamp, you are required to compete these tasks. Please refer to stream specific guidelines below. 
 
-#### Low/No code Approach
+### Low/No code Approach
 **Microsoft Learn** - 25
 - [Creating a canvas app](https://docs.microsoft.com/en-us/learn/paths/create-powerapps/) 
 - [Use UI and Controls in canvas app](https://docs.microsoft.com/en-us/learn/paths/ui-controls-canvas-app-powerapps/)
@@ -57,30 +57,32 @@ To complete *Web App & APIs* bootcamp, you are required to compete these tasks. 
 - [Project specification & marking rubric]()
 - [Project Submission Guide]()
 
-#### Coding Approach
+### Coding Approach
 **Microsoft Learn** - 10 Marks
 - [AI Web App using Python & Flask](https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/) 
 
 **Project** - 90 Marks 
+- [Project specification & marking rubric]()
+- [Project Submission Guide]()
 
 ## 4. Submission
 
-#### Low/No code Approach
+### Low/No code Approach
 Review the submission guidelines again here: 
 - [Submission Guidelines]
 
 > **Project Submission Link: ** https://aka.ms/MSAAusProjectSubmission
 
-#### Coding Approach
+### Coding Approach
 Review the submission guidelines again here: 
-- [Project submission guidelines]
+- [Submission guidelines](https://stdntpartners-my.sharepoint.com/:w:/g/personal/kaif_ahsan_studentambassadors_com/EfyYlZDMwJVCpQ8sAx3q8CcBc0U7W2p7k078oFh6DGmdgA?e=UsUqti)
 
 > **Project Submission Link: ** https://aka.ms/MSAAusProjectSubmission
 
 Please read through the submission guidelines and ensured all criteria are met. 
 
 ## 5. Deadline
-The deadline for this bootcamp is **TBA**
+The deadline for this bootcamp is **14th September, 2020. 11:59pm**
 
 #### Late Submissions 
-For this bootcamp late submissions up to **date** is allowed. However there will be a **20%** penalty on the total grade.  
+For this bootcamp late submissions up to **16th September, 2020. 11:59pm** is allowed. However there will be a **20%** penalty on the total grade.  
