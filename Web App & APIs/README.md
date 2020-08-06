@@ -21,7 +21,7 @@ A crucial part of this project is not just create an up, but also understand for
 #### Coding Approach
 In the technical stream, we will be learning not only how to create our interactive web apps, but also how to implement third party services through APIs as well as how to share our awesome work with the world through hosting it. To achieve this, we will be using HTML, Bootstrap & Flask to create our web application. 
 
-Further, we will also see, how we can deploy our web service with a web hosting provider such as Azure for testing and sharing with the public through a URL. Participants are free to choose from Either HTML, CSS and JavaScript or HTML, Bootstrap and Flask to develop their application. 
+Further, we will also see, how we can deploy our web service with a web hosting provider such as Azure for testing and sharing with the public through a URL. Participants are free to choose from Either HTML, Bootstrap and Flask or HTML, CSS and JavaScript to develop their application. However, we will focus using the former and the resources & demos will be targeted towards that. 
 
 ## 2. Resources
 
@@ -32,10 +32,13 @@ Further, we will also see, how we can deploy our web service with a web hosting 
 **Additional resources** 
 
 #### Coding Approach
-**Main resource** 
+- [Creating a To-do App using Flask](https://github.com/JerryyZhu/todo_markdown)
+- [AI web app by using Python and Flask](https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/)
+- [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [Deploying a Flask app to Azure](https://www.youtube.com/watch?v=K_RTlbOOCts)
 
-**Additional resources**
-
+Additional Resources: 
+- [Official Flask documentation](https://flask.palletsprojects.com/en/1.1.x/tutorial/#tutorial)
 
 ## 3. Assessment
 To complete *Web App & APIs* bootcamp, you are required to compete these tasks. Please refer to stream specific guidelines below. 
