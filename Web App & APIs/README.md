@@ -54,8 +54,8 @@ To complete *Web App & APIs* bootcamp, you are required to compete these tasks. 
 - [Use UI and Controls in canvas app](https://docs.microsoft.com/en-us/learn/paths/ui-controls-canvas-app-powerapps/)
 
 **Project** - 75
-- [Project specification & marking rubric]()
-- [Project Submission Guide]()
+- [Project specification & marking rubric](https://stdntpartners-my.sharepoint.com/:w:/g/personal/kaif_ahsan_studentambassadors_com/EUbzKw4SBwNMqsT8eufOKJ8BjiR5tU6oCQ9tDUR_oK8sRQ?e=I7Xdo4)
+- [Project Submission Guide](https://stdntpartners-my.sharepoint.com/:w:/g/personal/kaif_ahsan_studentambassadors_com/EcVSzqJRTp1Nt15pLSD_UiEB3_OK2F1DSHiN7o8GALFMNw?e=i9Y4eg)
 
 ### Coding Approach
 **Microsoft Learn** - 10 Marks
@@ -69,7 +69,7 @@ To complete *Web App & APIs* bootcamp, you are required to compete these tasks. 
 
 ### Low/No code Approach
 Review the submission guidelines again here: 
-- [Submission Guidelines]
+- [Submission Guidelines](https://stdntpartners-my.sharepoint.com/:w:/g/personal/kaif_ahsan_studentambassadors_com/EcVSzqJRTp1Nt15pLSD_UiEB3_OK2F1DSHiN7o8GALFMNw?e=i9Y4eg)
 
 > **Project Submission Link: ** https://aka.ms/MSAAusProjectSubmission
 
