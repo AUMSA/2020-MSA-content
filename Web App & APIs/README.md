@@ -10,8 +10,8 @@
 ## 1. Introduction
 Welcome to the third and final bootcamp of the 2020 MSA program. We would like to wrap bootcamps up by giving you a taste building an interactive application which solves a particular problem or fulfills a need. In our tech career, it is a quite a handy skill to know how to materialize an idea into a real application. 
 
-- [Lecture Slides]
-- [Lecture Slides]
+- [Non-Technical Stream](https://stdntpartners-my.sharepoint.com/:p:/g/personal/kaif_ahsan_studentambassadors_com/EfzLlfibDz1Bk09zd7eBzJ0B6aGbgVxXt9ylzD39gRErJw?e=1RTKha)
+- [Technical Stream](https://stdntpartners-my.sharepoint.com/:p:/g/personal/kaif_ahsan_studentambassadors_com/EW6tAm8CKEdKkWjgW7lJ4E4BJxpcX4tPS3kioWmMkMkT6g?e=WGDw0h)
 
 #### Low/No code Approach
 In the non-technical stream, we will be getting introduced to the Power Platform to create our professional apps without writing a single line of code. The Power Platform feature rich, versatile and easy to get started with. 
