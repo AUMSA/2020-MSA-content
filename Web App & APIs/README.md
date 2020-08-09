@@ -62,8 +62,8 @@ To complete *Web App & APIs* bootcamp, you are required to compete these tasks. 
 - [AI Web App using Python & Flask](https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/) 
 
 **Project** - 90 Marks 
-- [Project specification & marking rubric]()
-- [Project Submission Guide]()
+- [Project specification & marking rubric](https://stdntpartners-my.sharepoint.com/:w:/g/personal/kaif_ahsan_studentambassadors_com/EXdnOeJnSoFIvVRL-JSgj2gB93NKBUcCrTBTbZ0gfzgCHA?e=PZb1fJ)
+- [Project Submission Guide](https://stdntpartners-my.sharepoint.com/:w:/g/personal/kaif_ahsan_studentambassadors_com/EfyYlZDMwJVCpQ8sAx3q8CcBc0U7W2p7k078oFh6DGmdgA?e=UsUqti)
 
 ## 4. Submission
 
