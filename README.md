@@ -17,12 +17,12 @@ An Azure account is required to start the program. If you do not have one, pleas
 ### Bootcamps
 There are several bootcamps that will be run on Microsoft Teams. 
 1) [AI & Advanced Analytics](https://www.facebook.com/events/220234762372121/)
-   - 13 April 2020 (Low/No code Approach; slides can be found [here](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Bootcamp%20Slides/MSA-Bootcamp-13-April-Slides.pdf))
-   - 14 April 2020 (Coding Approach; slides can be found [here](https://github.com/AUMSA/2020-MSA-content/blob/master/AI%20%26%20Advanced%20Analytics/Bootcamp%20Slides/MSA-Bootcamp-14-April-Slides.pdf))
+   - 13 April 2020 (Low/No code Approach
+   - 14 April 2020 (Coding Approach
 2) Cloud Computing with Azure 
-   - 20th May 2020 (slides can be found [here])
+   - 20th May 2020 
 3) Web App & APIs
-   - End of July 2020 (slides can be found [here])
+   - End of July 2020
 
 ### Supporting Workshops
 The MSA 2020 program will also host a series of complimenting workshops:
