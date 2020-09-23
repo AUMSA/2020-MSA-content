@@ -16,7 +16,7 @@ Welcome to the third and final bootcamp of the 2020 MSA program. We would like t
 #### Low/No code Approach
 In the non-technical stream, we will be getting introduced to the Power Platform to create our professional apps without writing a single line of code. The Power Platform feature rich, versatile and easy to get started with. 
 
-A crucial part of this project is not just create an up, but also understand for whom and why are we creating the application for. To achieve this we will be exploring a concept called 'Building a Persona'. This is a very important skill and a useful step to plan and design our software in the real life. 
+A crucial part of this project is not just create an app, but also understand for whom and why are we creating the application for. To achieve this we will be exploring a concept called 'Building a Persona'. This is a very important skill and a useful step to plan and design our software in the real life. 
 
 #### Coding Approach
 In the technical stream, we will be learning not only how to create our interactive web apps, but also how to implement third party services through APIs as well as how to share our awesome work with the world through hosting it. To achieve this, we will be using HTML, Bootstrap & Flask to create our web application. 
